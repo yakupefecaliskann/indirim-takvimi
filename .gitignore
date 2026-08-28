@@ -1,0 +1,21 @@
+# Flutter / Dart
+app/build/
+app/.dart_tool/
+app/.flutter-plugins-dependencies
+app/android/.gradle/
+app/android/app/debug/
+app/android/app/profile/
+app/android/app/release/
+*.iml
+
+# Imza anahtarlari — ASLA depoya girmemeli
+app/android/key.properties
+*.jks
+*.keystore
+
+# Node
+collector/node_modules/
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db

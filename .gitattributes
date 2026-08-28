@@ -1,0 +1,6 @@
+# Depoda her zaman LF sakla. CRLF ile commit'lenen bir workflow dosyasi
+# Linux runner'da "$'\r': command not found" ile patlar.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jks binary

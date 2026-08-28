@@ -1,0 +1,58 @@
+name: Kampanya verisi topla
+
+# Boru hatti 6 saatte bir kendi kendine calisir. Kimsenin bir sey yapmasi
+# gerekmez. Calistirma basarisiz olsa bile uygulama calismaya devam eder:
+# telefondaki hesaplanan takvim ve son iyi veri yerinde kalir.
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Actions sekmesinden elle tetiklemek icin
+  push:
+    paths:
+      - 'collector/**'
+      - '.github/workflows/collect.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: collector/package-lock.json
+
+      - name: Bagimliliklari kur
+        working-directory: collector
+        run: npm ci
+
+      - name: Testler
+        working-directory: collector
+        run: npm test
+
+      - name: Veriyi topla
+        working-directory: collector
+        run: npm start
+
+      - name: Degisiklik varsa yayinla
+        run: |
+          if git diff --quiet -- data/campaigns.json; then
+            echo "Veri degismedi, commit yok."
+            exit 0
+          fi
+          git config user.name "kampanya-botu"
+          git config user.email "actions@github.com"
+          git add data/campaigns.json
+          git commit -m "veri: kampanya guncellemesi $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
