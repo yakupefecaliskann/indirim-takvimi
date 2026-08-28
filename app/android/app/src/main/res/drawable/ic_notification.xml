@@ -1,0 +1,19 @@
+<!-- Bildirim simgesi. Android bunu tek renk siluet olarak cizer ve kendi
+     rengiyle boyar; bu yuzden yalnizca alfa kanali onemli. Varsayilan
+     launcher ikonunu bildirimde kullanmak Flutter logosunun cikmasina yol
+     aciyordu. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#FFFFFFFF">
+    <!-- Canta sapi -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,2C9.79,2 8,3.79 8,6L8,7L10,7L10,6C10,4.9 10.9,4 12,4C13.1,4 14,4.9 14,6L14,7L16,7L16,6C16,3.79 14.21,2 12,2Z" />
+    <!-- Canta govdesi (trapez) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M7,8L17,8L19.5,21L4.5,21Z" />
+</vector>

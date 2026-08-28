@@ -63,7 +63,7 @@ class WelcomeScreen extends StatelessWidget {
                 const SizedBox(height: 14),
                 _InfoRow(
                   icon: Icons.local_offer_rounded,
-                  text: 'Geçerli indirim kodlarını kopyalayabilirsin',
+                  text: 'Markaların güncel kampanyaları her gün tazelenir',
                 ),
                 const Spacer(flex: 2),
                 SizedBox(

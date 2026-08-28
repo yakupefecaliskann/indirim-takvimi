@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_notification'a yalnizca Dart tarafindan bir metin ("@drawable/
+     ic_notification") ile atifta bulunuluyor. Kaynak kucultucu bunu goremedigi
+     icin release derlemesinde simgeyi APK'dan atiyordu ve uygulama acilista
+     "invalid_icon" istisnasi firlatip hicbir bildirim kuramiyordu. Bu dosya
+     kucultucuye simgeyi tutmasini soyluyor. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_notification" />

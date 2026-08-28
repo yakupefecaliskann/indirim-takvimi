@@ -28,5 +28,7 @@ void main() {
       home: WelcomeScreen(onContinue: () async {}),
     ));
     expect(find.textContaining('30, 14, 7, 3 ve 1 gün kala'), findsOneWidget);
+    // Kod dizeleri toplanmiyor; karsilama ekrani kod vaadi vermemeli.
+    expect(find.textContaining('indirim kodlarını'), findsNothing);
   });
 }

@@ -35,7 +35,13 @@ tarih)").
 
 ---
 
-## Kurulum (tek seferlik)
+## Durum
+
+Depo: https://github.com/yakupefecaliskann/indirim-takvimi — kurulu ve çalışıyor.
+Boru hattı 6 saatte bir kendi kendine veri topluyor, uygulama Android 13'te
+(Infinix X6528B) test edildi: 64 hatırlatma kuruldu, bildirimler çalışıyor.
+
+## Kurulum (tek seferlik — yapıldı)
 
 ### 1. Kişisel bilgileri doldur
 
@@ -114,6 +120,15 @@ uydurulmuyor; kod gerektiren fırsatlar "Kod gerekli" rozetiyle ve kaynak
 bağlantısıyla gösteriliyor. Türkiye'deki perakende kampanyalarının çoğu zaten
 kod istemiyor, indirim kasada otomatik uygulanıyor.
 
+### Sürpriz bir tuzak: kaynak küçültücü
+
+Release derlemesinde `isShrinkResources = true` açık. Bildirim simgesine yalnızca
+Dart tarafından bir **metinle** (`'@drawable/ic_notification'`) atıf yapıldığı için
+küçültücü onu göremeyip APK'dan atıyordu; uygulama açılışta `invalid_icon`
+istisnası fırlatıp **hiçbir bildirim kuramıyordu** — hem de sessizce, yalnızca
+release derlemesinde. `app/android/app/src/main/res/raw/keep.xml` bunu önlüyor.
+Bildirim simgesini değiştirirsen o dosyayı da güncelle.
+
 ### Güvenlik ağları
 
 1. Her kaynak izole; biri patlarsa diğerleri devam eder.
@@ -152,6 +167,12 @@ npm start                       # topla ve data/campaigns.json yaz
 - Ayarlar ekranındaki "Deneme bildirimi gönder" ile anında doğrulanabilir.
 
 ---
+
+## Uygulama simgesi
+
+`python tools/make_icons.py` simgeyi yeniden üretir (gül kurusu gradyan üzerinde
+kalpli alışveriş çantası) ve tüm mipmap yoğunluklarına yazar. Pillow gerekir.
+Bildirim simgesi ayrı: `res/drawable/ic_notification.xml`, tek renk siluet.
 
 ## İmza anahtarı ⚠️
 
