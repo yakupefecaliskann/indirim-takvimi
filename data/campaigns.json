@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-31T12:27:40.273Z",
+  "generatedAt": "2026-08-31T22:18:13.683Z",
   "campaigns": [],
   "codes": [
     {
@@ -79,17 +79,6 @@
       "expiresAt": null,
       "lastSeenAt": "2026-08-31",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
-    },
-    {
-      "id": "picodi-watsons-194009",
-      "brand": "watsons",
-      "title": "Sepette Tam 500₺ İndirim | Watsons indirim kodu",
-      "description": "Watsons indirim kodunu kullanarak sepetinizde tam 500₺ indirim elde edin. Fırsatları kaçırmayın!",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-08-31",
-      "lastSeenAt": "2026-08-31",
-      "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
       "id": "picodi-watsons-155999",
@@ -466,28 +455,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-193916",
-      "brand": "pullandbear",
-      "title": "Erkek koleksiyonunda Pull and Bear’ta %30’a varan fırsatlar!",
-      "description": "Erkek koleksiyonunda Pull and Bear’ta %30'a varan tasarruf fırsatlarını değerlendirin. Şimdi fırsatlarla dolu alışverişin tadını çıkarın!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-08-31",
-      "lastSeenAt": "2026-08-31",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
-      "id": "picodi-pullandbear-193803",
-      "brand": "pullandbear",
-      "title": "Yeni eğitim yılına Pull and Bear’ta %30’e varan indirimle hazırlan!",
-      "description": "Yeni eğitim yılına hazırlanırken Pull and Bear’ta %30'a varan indirim fırsatlarından yararlanabilirsiniz! Alışverişinizi yaparak büyük tasarruf elde edin.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-08-31",
-      "lastSeenAt": "2026-08-31",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-194245",
       "brand": "pullandbear",
       "title": "Pull&Bear’da 2 ürün al, %5; 3 ürün al, %10 indirim!",
@@ -554,28 +521,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-stradivarius-192627",
-      "brand": "stradivarius",
-      "title": "Stradivarius’ta online sezon fırsatları, %40’a varan tasarruf!",
-      "description": "Stradivarius’ta online alışverişlerinizde %40’a varan indirim fırsatıyla tasarruf edin! Yılın bu döneminde karlı alışverişler yapmanın keyfini çıkaracaksınız.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-08-31",
-      "lastSeenAt": "2026-08-31",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-stradivarius-193920",
-      "brand": "stradivarius",
-      "title": "Stradivarius’ta erkek stilinde büyük indirim: %30’a varan fırsatlar!",
-      "description": "Stradivarius’ta erkek stiline özel %30'a varan indirim fırsatları sizi bekliyor! Şimdi alışveriş yaparak şıklığınızı ve bütçenizi koruyun.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-08-31",
-      "lastSeenAt": "2026-08-31",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
       "id": "picodi-stradivarius-192797",
       "brand": "stradivarius",
       "title": "Stradivarius’ta ayakkabı alışverişinde %20’ye varan tasarruf!",
@@ -598,17 +543,6 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-194074",
-      "brand": "stradivarius",
-      "title": "Tarzını yenile! Stradivarius’ta Maximum’dan %10 indirim!",
-      "description": "Stradivarius'ta alışveriş yaparak %10 indirim fırsatını değerlendirin! Fırsatlar sınırlı süreyle geçerlidir.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-08-31",
-      "lastSeenAt": "2026-08-31",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
       "id": "picodi-stradivarius-155813",
       "brand": "stradivarius",
       "title": "Stradivarius Mağazasında Özel Kampanya | Ağustos",
@@ -616,17 +550,6 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-08-31",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-stradivarius-193777",
-      "brand": "stradivarius",
-      "title": "Stradivarius’ta sandalet ve yazlık ayakkabılarda 200 TL’ye kadar indirim!",
-      "description": "Stradivarius'ta sandalet ve yazlık ayakkabılarda 200₺'ye kadar indirim fırsatını değerlendirin! Yaz stilinizi uygun fiyatlarla tamamlamak için harika bir zaman.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-08-31",
       "lastSeenAt": "2026-08-31",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
