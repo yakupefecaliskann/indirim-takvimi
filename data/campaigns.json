@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-01T03:09:27.669Z",
+  "generatedAt": "2026-09-01T10:57:45.062Z",
   "campaigns": [],
   "codes": [
     {
@@ -248,7 +248,7 @@
     {
       "id": "picodi-rossmann-156018",
       "brand": "rossmann",
-      "title": "rosmann Mağazasında Büyük Ağustos İndirimlreri",
+      "title": "rosmann Mağazasında Büyük Eylül İndirimlreri",
       "description": "rosmann mağazasında büyük indirimler var! Haydi ziyaret et ve faydalan!",
       "code": null,
       "requiresCode": false,
@@ -479,7 +479,7 @@
     {
       "id": "picodi-pullandbear-155803",
       "brand": "pullandbear",
-      "title": "Ağustos Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
+      "title": "Eylül Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
       "description": "İndirim mi lazım? Bu mega kampanyalara bir göz at!",
       "code": null,
       "requiresCode": false,
@@ -545,7 +545,7 @@
     {
       "id": "picodi-stradivarius-155813",
       "brand": "stradivarius",
-      "title": "Stradivarius Mağazasında Özel Kampanya | Ağustos",
+      "title": "Stradivarius Mağazasında Özel Kampanya | Eylül",
       "description": "Kasada Stradivarius indirim kodu kullanmadan tasarrufun tadını çıkar!",
       "code": null,
       "requiresCode": false,
@@ -589,7 +589,7 @@
     {
       "id": "picodi-oysho-156024",
       "brand": "oysho",
-      "title": "Ağustos Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
+      "title": "Eylül Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
       "description": "İndirim mi lazım? Bu mega kampanyalara bir göz at!",
       "code": null,
       "requiresCode": false,
