@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T02:28:28.234Z",
+  "generatedAt": "2026-09-02T10:25:58.733Z",
   "campaigns": [],
   "codes": [
+    {
+      "id": "picodi-gratis-194327",
+      "brand": "gratis",
+      "title": "Seçili Ürünlerde 100₺ İndirim | Gratis promosyon kodu",
+      "description": "Herkese 100₺ ek indirim sağlayan bir indirim kodu mevcut. Tek yapmanız gereken butona tıklayarak kuponu kopyalamak.",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-09-20",
+      "lastSeenAt": "2026-09-02",
+      "sourceUrl": "https://www.picodi.com/tr/gratis"
+    },
     {
       "id": "picodi-gratis-155789",
       "brand": "gratis",
@@ -444,6 +455,17 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-194339",
+      "brand": "pullandbear",
+      "title": "Düz kesim saten pantolonlarda Pull and Bear fırsatı: %45’e varan indirim!",
+      "description": "Düz kesim saten pantolonlarda %45'e varan indirim fırsatıyla, stilinizi güncelleyerek tasarruf edin! Şimdi alışveriş yapmanın tam zamanı!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-09-13",
+      "lastSeenAt": "2026-09-02",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-194244",
       "brand": "pullandbear",
       "title": "Pull and Bear’ta Pull&Bear erkek ürünlerinde %40’a varan indirim!",
@@ -550,6 +572,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-09-02",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-194342",
+      "brand": "stradivarius",
+      "title": "Stradivarius’ta 100 TL’ye kadar tişört fırsatlarını keşfet!",
+      "description": "Stradivarius’ta 100₺'ye kadar tişört fırsatlarını değerlendirin! Şimdi alışveriş yaparak hem şık görünün hem de bütçenizi koruyun.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-09-20",
       "lastSeenAt": "2026-09-02",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
