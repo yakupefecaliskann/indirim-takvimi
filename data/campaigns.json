@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T10:25:58.733Z",
+  "generatedAt": "2026-09-02T15:49:39.360Z",
   "campaigns": [],
   "codes": [
     {
@@ -541,6 +541,17 @@
       "expiresAt": null,
       "lastSeenAt": "2026-09-02",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-stradivarius-194353",
+      "brand": "stradivarius",
+      "title": "Fırsatı kaçırma! Stradivarius uygulamasında %40’a varan indirim!",
+      "description": "Fırsatların tadını çıkarın! Stradivarius'ta %40'a varan indirimlerle alışverişinizi daha uygun hale getirin.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-09-02",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
       "id": "picodi-stradivarius-192797",
