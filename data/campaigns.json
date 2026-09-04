@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-04T02:32:10.841Z",
+  "generatedAt": "2026-09-04T10:24:14.915Z",
   "campaigns": [],
   "codes": [
     {
@@ -244,6 +244,17 @@
       "expiresAt": null,
       "lastSeenAt": "2026-09-04",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
+    },
+    {
+      "id": "picodi-rossmann-194402",
+      "brand": "rossmann",
+      "title": "Online Alışverişte 200₺ İndirim | rosmann indirim kodu",
+      "description": "Online alışveriş yaparken 200₺ tasarruf sağlamak için rosmann indirim kodunu kullanabileceğinizi biliyor muydunuz? Rossmann indirim kodu ile alışverişlerinizi daha ekonomik hale getirin!",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-09-13",
+      "lastSeenAt": "2026-09-04",
+      "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
       "id": "picodi-rossmann-156292",
@@ -627,6 +638,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-09-04",
+      "sourceUrl": "https://www.picodi.com/tr/oysho"
+    },
+    {
+      "id": "picodi-oysho-194396",
+      "brand": "oysho",
+      "title": "Mobil Uygulamada %20 İndirim | oysho indirim kodu",
+      "description": "Mobil uygulamadan vereceğiniz ilk online siparişlerinizde %20 indirim kazanmak için oysho indirim kodunu kullanabilirsiniz. Bu fırsatı kaçırmayın!",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-09-11",
       "lastSeenAt": "2026-09-04",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
