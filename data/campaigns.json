@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-07T02:27:01.476Z",
+  "generatedAt": "2026-09-07T11:22:24.799Z",
   "campaigns": [],
   "codes": [
     {
@@ -598,17 +598,6 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-oysho-159824",
-      "brand": "oysho",
-      "title": "%50 oysho İndirim Kampanyası",
-      "description": "Çok beklenen %50'ye varan oysho indirim fırsatları başladı!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-09-07",
-      "sourceUrl": "https://www.picodi.com/tr/oysho"
-    },
-    {
       "id": "picodi-oysho-194396",
       "brand": "oysho",
       "title": "Mobil Uygulamada %20 İndirim | oysho indirim kodu",
@@ -624,6 +613,17 @@
       "brand": "oysho",
       "title": "Eylül Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
       "description": "İndirim mi lazım? Bu mega kampanyalara bir göz at!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-09-07",
+      "sourceUrl": "https://www.picodi.com/tr/oysho"
+    },
+    {
+      "id": "picodi-oysho-159824",
+      "brand": "oysho",
+      "title": "%50 oysho İndirim Kampanyası",
+      "description": "Çok beklenen %50'ye varan oysho indirim fırsatları başladı!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
