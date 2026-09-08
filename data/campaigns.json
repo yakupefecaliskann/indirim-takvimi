@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-08T02:40:10.093Z",
+  "generatedAt": "2026-09-08T10:27:12.000Z",
   "campaigns": [],
   "codes": [
     {
@@ -455,6 +455,17 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-194500",
+      "brand": "pullandbear",
+      "title": "Pull&Bear'da 1000₺ ve Üzerine 200₺ İndirim | Pull and Bear indirim kodu",
+      "description": "PULL&BEAR'da indirim kodunu kullanarak 1000₺ ve üzeri alışverişlerinizde 200₺ indirim kazanın. Bu fırsatı kaçırmayın!",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-09-13",
+      "lastSeenAt": "2026-09-08",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-194339",
       "brand": "pullandbear",
       "title": "Düz kesim saten pantolonlarda Pull and Bear fırsatı: %45’e varan indirim!",
@@ -484,6 +495,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-09-08",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-194498",
+      "brand": "pullandbear",
+      "title": "Pull&Bear'da İkinci İndirimle Montlar 790₺, Kürk Ceketler 990₺",
+      "description": "Pull&Bear'da gerçekleştirilen ikinci indirimle mont fiyatı 790₺, kürk ceketin fiyatı ise 990₺'ye düştü; bu fırsatlarla alışverişlerinizde önemli tasarruflar gerçekleştirebilirsiniz.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-09-20",
       "lastSeenAt": "2026-09-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
@@ -519,6 +541,17 @@
       "expiresAt": null,
       "lastSeenAt": "2026-09-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-stradivarius-194497",
+      "brand": "stradivarius",
+      "title": "Seçili Aksesuarlarda %40'a Varan İndirim | Stradivarius indirim kodu",
+      "description": "Stradivarius indirim kodu ile seçili aksesuarlarda %40'a varan indirim kazanın! Alışverişlerinizi kolayca yaparak bu fırsatı değerlendirebilirsiniz.",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-09-20",
+      "lastSeenAt": "2026-09-08",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
       "id": "picodi-stradivarius-194353",
