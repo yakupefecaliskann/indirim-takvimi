@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-18T10:25:26.762Z",
+  "generatedAt": "2026-09-18T15:40:06.935Z",
   "campaigns": [],
   "codes": [
     {
@@ -528,6 +528,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-09-18",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-194842",
+      "brand": "stradivarius",
+      "title": "Stradivarius’ta kadın gömleklerinde %25’e varan indirim",
+      "description": "Stradivarius'ta kadın gömleklerinde %25'e varan tasarruf fırsatını değerlendirin. Şimdi yeni bir kıyafet edinmek için harika bir zaman!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-09-30",
       "lastSeenAt": "2026-09-18",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
