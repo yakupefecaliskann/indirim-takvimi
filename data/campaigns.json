@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-21T02:55:19.266Z",
+  "generatedAt": "2026-09-21T11:45:44.319Z",
   "campaigns": [],
   "codes": [
     {
@@ -429,6 +429,17 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": null,
+      "lastSeenAt": "2026-09-21",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-194892",
+      "brand": "pullandbear",
+      "title": "Pull and Bear’ta ayakkabılarda büyük fırsat: %20’a varan indirim",
+      "description": "Pull and Bear'ta ayakkabılarda %20'ye varan büyük indirim fırsatlarına ulaşarak harika tasarruflar yapın. Alışverişlerinizde kaliteyi uygun fiyatlarla bulmanın keyfini çıkarın.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-09-30",
       "lastSeenAt": "2026-09-21",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
