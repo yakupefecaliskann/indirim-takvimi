@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T17:27:21.861Z",
+  "generatedAt": "2026-09-30T21:46:54.409Z",
   "campaigns": [],
   "codes": [
     {
@@ -444,17 +444,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-194892",
-      "brand": "pullandbear",
-      "title": "Pull and Bear’ta ayakkabılarda büyük fırsat: %20’a varan indirim",
-      "description": "Pull and Bear'ta ayakkabılarda %20'ye varan büyük indirim fırsatlarına ulaşarak harika tasarruflar yapın. Alışverişlerinizde kaliteyi uygun fiyatlarla bulmanın keyfini çıkarın.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-09-30",
-      "lastSeenAt": "2026-09-30",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-187813",
       "brand": "pullandbear",
       "title": "10% Pull and Bear İndirim Kampanyası",
@@ -517,17 +506,6 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-09-30",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-stradivarius-194842",
-      "brand": "stradivarius",
-      "title": "Stradivarius’ta kadın gömleklerinde %25’e varan indirim",
-      "description": "Stradivarius'ta kadın gömleklerinde %25'e varan tasarruf fırsatını değerlendirin. Şimdi yeni bir kıyafet edinmek için harika bir zaman!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-09-30",
       "lastSeenAt": "2026-09-30",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
