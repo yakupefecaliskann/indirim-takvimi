@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T03:41:02.428Z",
+  "generatedAt": "2026-10-02T11:45:01.775Z",
   "campaigns": [],
   "codes": [
     {
@@ -94,7 +94,7 @@
     {
       "id": "picodi-watsons-155999",
       "brand": "watsons",
-      "title": "Watsons Mağazasında Eylül Büyük Month İndirimleri",
+      "title": "Watsons Mağazasında Ekim Büyük Month İndirimleri",
       "description": "Bu fırsatlar için Watsons indirim kodları gerekli değil! Siteye git ve tassarufa başla!",
       "code": null,
       "requiresCode": false,
@@ -444,6 +444,17 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-195129",
+      "brand": "pullandbear",
+      "title": "Pull and Bear’ta seçili sweatshirtlerde %15’e varan indirim",
+      "description": "Pull and Bear’ta seçili sweatshirtlerde %15'e varan indirim fırsatını değerlendirerek stilinizi güncelleyebilirsiniz. Kapsamlı koleksiyonumuz ile şıklığı uygun fiyatlarla yakalayın.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-10-11",
+      "lastSeenAt": "2026-10-02",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-187813",
       "brand": "pullandbear",
       "title": "10% Pull and Bear İndirim Kampanyası",
@@ -517,6 +528,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-10-02",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-195138",
+      "brand": "stradivarius",
+      "title": "Sweatshirt alışverişinde Stradivarius’ta %15’e varan fırsat",
+      "description": "Stradivarius’ta sweatshirt alışverişlerinizde %15'e varan indirim fırsatını değerlendirin. Hem tarzınızı yansıtın hem de tasarruf edin.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-10-18",
       "lastSeenAt": "2026-10-02",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
