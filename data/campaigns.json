@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T03:37:48.412Z",
+  "generatedAt": "2026-10-05T13:22:15.149Z",
   "campaigns": [],
   "codes": [
     {
@@ -433,6 +433,17 @@
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
+      "id": "picodi-pullandbear-195272",
+      "brand": "pullandbear",
+      "title": "Seçili Ürünlerde %15 Pull and Bear indirim kodu",
+      "description": "Bu Pull and Bear indirim koduyla seçili STWD ürünlerinde %30'a varan indirimlerden yararlanabilirsiniz. Ayrıca, bu fırsatı kaçırmamak için alışverişlerinizi hemen yapın!",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-10-12",
+      "lastSeenAt": "2026-10-05",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-186411",
       "brand": "pullandbear",
       "title": "%10 Pull and Bear indirim kodu",
@@ -440,6 +451,17 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": null,
+      "lastSeenAt": "2026-10-05",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-195245",
+      "brand": "pullandbear",
+      "title": "Gardırobunu yenile, %40 indirim avantajını yakala | Pull and Bear",
+      "description": "Gardırobunuzu yenilemek için büyük bir fırsat sunuyoruz; şimdi %40'a varan indirimlerden faydalanabilirsiniz. Sezonun trend parçalarıyla stilinizi güncelleyerek hem tasarruf edin hem de şıklığınızdan ödün vermeyin.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-10-26",
       "lastSeenAt": "2026-10-05",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
