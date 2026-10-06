@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T04:25:55.666Z",
+  "generatedAt": "2026-10-06T12:37:03.012Z",
   "campaigns": [],
   "codes": [
     {
@@ -79,17 +79,6 @@
       "expiresAt": null,
       "lastSeenAt": "2026-10-06",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
-    },
-    {
-      "id": "picodi-watsons-194985",
-      "brand": "watsons",
-      "title": "Tüm Kategorilerde 200₺ İndirim | Watsons indirim kodu",
-      "description": "Tüm kategorilerde geçerli bu indirim kodu ile online alışverişlerinizde %20 indirim avantajından yararlanabilirsiniz.",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-10-06",
-      "lastSeenAt": "2026-10-06",
-      "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
       "id": "picodi-watsons-155999",
