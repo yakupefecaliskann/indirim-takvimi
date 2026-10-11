@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T17:30:04.008Z",
+  "generatedAt": "2026-10-11T21:22:56.274Z",
   "campaigns": [],
   "codes": [
     {
@@ -451,17 +451,6 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-10-26",
-      "lastSeenAt": "2026-10-11",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
-      "id": "picodi-pullandbear-195129",
-      "brand": "pullandbear",
-      "title": "Pull and Bear’ta seçili sweatshirtlerde %15’e varan indirim",
-      "description": "Pull and Bear’ta seçili sweatshirtlerde %15'e varan indirim fırsatını değerlendirerek stilinizi güncelleyebilirsiniz. Kapsamlı koleksiyonumuz ile şıklığı uygun fiyatlarla yakalayın.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-10-11",
       "lastSeenAt": "2026-10-11",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
