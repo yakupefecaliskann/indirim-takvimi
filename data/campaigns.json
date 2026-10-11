@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T03:30:22.292Z",
+  "generatedAt": "2026-10-11T11:58:15.381Z",
   "campaigns": [],
   "codes": [
     {
@@ -519,17 +519,6 @@
       "expiresAt": null,
       "lastSeenAt": "2026-10-11",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
-      "id": "picodi-stradivarius-195226",
-      "brand": "stradivarius",
-      "title": "Sınırlı Süre %20 | Stradivarius indirim kodu",
-      "description": "Sınırlı sayıda kullanım için geçerli olan bu Stradivarius indirim kodu ile seçili Stradivarius ürünlerinde %20 indirim kazanın!",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-10-11",
-      "lastSeenAt": "2026-10-11",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
       "id": "picodi-stradivarius-194353",
