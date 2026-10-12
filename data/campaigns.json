@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T03:54:10.023Z",
+  "generatedAt": "2026-10-12T14:11:42.078Z",
   "campaigns": [],
   "codes": [
     {
@@ -422,17 +422,6 @@
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
-      "id": "picodi-pullandbear-195272",
-      "brand": "pullandbear",
-      "title": "Seçili Ürünlerde %15 Pull and Bear indirim kodu",
-      "description": "Bu Pull and Bear indirim koduyla seçili STWD ürünlerinde %30'a varan indirimlerden yararlanabilirsiniz. Ayrıca, bu fırsatı kaçırmamak için alışverişlerinizi hemen yapın!",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-10-12",
-      "lastSeenAt": "2026-10-12",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-186411",
       "brand": "pullandbear",
       "title": "%10 Pull and Bear indirim kodu",
@@ -451,6 +440,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-10-26",
+      "lastSeenAt": "2026-10-12",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-195505",
+      "brand": "pullandbear",
+      "title": "Pull and Bear’ta bomber ceket alışverişine %15’e varan indirim!",
+      "description": "Pull and Bear'ta bomber ceket satın alarak %15'e varan indirim fırsatını değerlendirin! Farklı renk ve modellerle şıklığınızı tamamlayın.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-10-31",
       "lastSeenAt": "2026-10-12",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
@@ -528,6 +528,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-10-12",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-195504",
+      "brand": "stradivarius",
+      "title": "Bomber ceketini Stradivarius’ta %15’e varan indirimle keşfet!",
+      "description": "Bomber ceketler için Stradivarius’ta %15'e varan tasarruf fırsatını değerlendirin!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-10-31",
       "lastSeenAt": "2026-10-12",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
