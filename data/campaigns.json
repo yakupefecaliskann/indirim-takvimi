@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T10:31:17.424Z",
+  "generatedAt": "2026-10-16T15:56:44.041Z",
   "campaigns": [],
   "codes": [
     {
@@ -451,6 +451,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-10-31",
+      "lastSeenAt": "2026-10-16",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-195640",
+      "brand": "pullandbear",
+      "title": "Yeni sonbahar kombinleri Pull and Bear’ta seni bekliyor!",
+      "description": "Yeni sonbahar kombinlerinde %10'ye varan indirim fırsatlarından yararlanarak şıklığınızı artırabilirsiniz. Bu özel kampanya, sınırlı süreyle geçerli!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-01",
       "lastSeenAt": "2026-10-16",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
