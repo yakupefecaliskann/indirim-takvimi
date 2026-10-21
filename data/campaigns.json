@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T02:57:58.612Z",
+  "generatedAt": "2026-10-21T11:01:20.839Z",
   "campaigns": [],
   "codes": [
     {
@@ -596,17 +596,6 @@
       "expiresAt": null,
       "lastSeenAt": "2026-10-21",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-oysho-195556",
-      "brand": "oysho",
-      "title": "Mobil Uygulama Üzerinden %10 İndirim | oysho indirim kodu",
-      "description": "Oysho mobil uygulamasını indiren yeni kullanıcılar, ilk online alışverişlerinde indirim kodu ile 100₺ tasarruf elde edebilirler. Bu fırsatla birlikte ilk alışveriş deneyiminizi daha avantajlı hale getirin!",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-10-21",
-      "lastSeenAt": "2026-10-21",
-      "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
       "id": "picodi-oysho-156024",
