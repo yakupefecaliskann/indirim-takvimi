@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T11:01:20.839Z",
+  "generatedAt": "2026-10-21T16:28:03.375Z",
   "campaigns": [],
   "codes": [
     {
@@ -572,6 +572,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-10-21",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-195767",
+      "brand": "stradivarius",
+      "title": "Stradivarius’ta kırmızı koleksiyonda 250 TL’ye varan indirim!",
+      "description": "Stradivarius’ta kırmızı koleksiyonda 250₺'ye varan indirim fırsatını kaçırmayın! Bu özel kampanya ile şık ürünlere daha uygun fiyatlarla ulaşabilirsiniz.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-08",
       "lastSeenAt": "2026-10-21",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
