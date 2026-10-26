@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T12:06:25.000Z",
+  "generatedAt": "2026-10-26T22:12:08.661Z",
   "campaigns": [],
   "codes": [
     {
@@ -429,17 +429,6 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": null,
-      "lastSeenAt": "2026-10-26",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
-      "id": "picodi-pullandbear-195245",
-      "brand": "pullandbear",
-      "title": "Gardırobunu yenile, %40 indirim avantajını yakala | Pull and Bear",
-      "description": "Gardırobunuzu yenilemek için büyük bir fırsat sunuyoruz; şimdi %40'a varan indirimlerden faydalanabilirsiniz. Sezonun trend parçalarıyla stilinizi güncelleyerek hem tasarruf edin hem de şıklığınızdan ödün vermeyin.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-10-26",
       "lastSeenAt": "2026-10-26",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
