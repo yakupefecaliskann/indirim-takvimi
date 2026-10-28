@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T03:38:18.359Z",
+  "generatedAt": "2026-10-28T11:58:33.141Z",
   "campaigns": [],
   "codes": [
     {
@@ -561,6 +561,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-10-28",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-195964",
+      "brand": "stradivarius",
+      "title": "Jean modasında %10’a varan indirimleri yakala!",
+      "description": "Jean modasında %10'a varan indirimlerle moda alışverişinizi avantajlı hale getirin. Stilinizi yenileyerek tasarruf etme fırsatını mutlaka değerlendirin!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-08",
       "lastSeenAt": "2026-10-28",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
