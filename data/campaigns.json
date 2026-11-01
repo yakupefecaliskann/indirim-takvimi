@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T03:53:27.864Z",
+  "generatedAt": "2026-11-01T12:31:44.843Z",
   "campaigns": [],
   "codes": [
+    {
+      "id": "picodi-gratis-196086",
+      "brand": "gratis",
+      "title": "200₺'ye Kadar İndirim | Gratis promosyon kodu",
+      "description": "İşte size Gratis indirim kodu ile 200₺ ek indirim kazanma fırsatı! Sepet sayfasında kullanarak tasarruf edin.",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-11-08",
+      "lastSeenAt": "2026-11-01",
+      "sourceUrl": "https://www.picodi.com/tr/gratis"
+    },
     {
       "id": "picodi-gratis-155789",
       "brand": "gratis",
@@ -248,7 +259,7 @@
     {
       "id": "picodi-rossmann-156018",
       "brand": "rossmann",
-      "title": "rosmann Mağazasında Büyük Ekim İndirimlreri",
+      "title": "rosmann Mağazasında Büyük Kasım İndirimlreri",
       "description": "rosmann mağazasında büyük indirimler var! Haydi ziyaret et ve faydalan!",
       "code": null,
       "requiresCode": false,
@@ -468,7 +479,7 @@
     {
       "id": "picodi-pullandbear-155803",
       "brand": "pullandbear",
-      "title": "Ekim Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
+      "title": "Kasım Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
       "description": "İndirim mi lazım? Bu mega kampanyalara bir göz at!",
       "code": null,
       "requiresCode": false,
@@ -508,6 +519,17 @@
       "expiresAt": null,
       "lastSeenAt": "2026-11-01",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-stradivarius-196087",
+      "brand": "stradivarius",
+      "title": "500₺ İndirim | Stradivarius indirim kodu",
+      "description": "Stradivarius indirim kodu ile 500₺ ek indirim kazanma şansını yakalayın! Bu fırsat, sepet aşamasında geçerli olacak.",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-11-08",
+      "lastSeenAt": "2026-11-01",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
       "id": "picodi-stradivarius-194353",
@@ -556,7 +578,7 @@
     {
       "id": "picodi-stradivarius-155813",
       "brand": "stradivarius",
-      "title": "Stradivarius Mağazasında Özel Kampanya | Ekim",
+      "title": "Stradivarius Mağazasında Özel Kampanya | Kasım",
       "description": "Kasada Stradivarius indirim kodu kullanmadan tasarrufun tadını çıkar!",
       "code": null,
       "requiresCode": false,
