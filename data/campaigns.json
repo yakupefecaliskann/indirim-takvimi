@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T04:29:58.342Z",
+  "generatedAt": "2026-11-04T13:39:38.964Z",
   "campaigns": [],
   "codes": [
     {
@@ -444,6 +444,17 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-196195",
+      "brand": "pullandbear",
+      "title": "Pull and Bear’ta 11.11 Coşkusu: %20’ye Varan İndirim Seni Bekliyor",
+      "description": "Pull and Bear’ta 11.11 Coşkusu ile alışverişlerinizi %20’ye varan indirimlerle daha uygun fiyatlarla gerçekleştirin. Bu fırsatı kaçırmayarak bütçenize katkıda bulunun!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-12",
+      "lastSeenAt": "2026-11-04",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-195924",
       "brand": "pullandbear",
       "title": "Pull and Bear’ta sonbahar kombinlerinde %15’e varan indirim!",
@@ -528,6 +539,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-11-04",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-196189",
+      "brand": "stradivarius",
+      "title": "11.11 Kampanyasıyla Stradivarius’ta %20’ye Varan Tasarruf",
+      "description": "11.11 Kampanyası kapsamında alışverişlerinizde %20'ye varan tasarruf fırsatını yakalayın. Stoklarla sınırlı bu kampanya, bütçenizi koruyarak istediğiniz ürünlere ulaşmanıza yardımcı olacak.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-12",
       "lastSeenAt": "2026-11-04",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
