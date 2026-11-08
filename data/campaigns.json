@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T03:56:45.236Z",
+  "generatedAt": "2026-11-08T12:37:55.498Z",
   "campaigns": [
     {
       "id": "black-friday-2026",
@@ -16,17 +16,6 @@
     }
   ],
   "codes": [
-    {
-      "id": "picodi-gratis-196086",
-      "brand": "gratis",
-      "title": "200₺'ye Kadar İndirim | Gratis promosyon kodu",
-      "description": "İşte size Gratis indirim kodu ile 200₺ ek indirim kazanma fırsatı! Sepet sayfasında kullanarak tasarruf edin.",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-08",
-      "sourceUrl": "https://www.picodi.com/tr/gratis"
-    },
     {
       "id": "picodi-gratis-155789",
       "brand": "gratis",
@@ -532,17 +521,6 @@
       "expiresAt": null,
       "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
-      "id": "picodi-stradivarius-196087",
-      "brand": "stradivarius",
-      "title": "500₺ İndirim | Stradivarius indirim kodu",
-      "description": "Stradivarius indirim kodu ile 500₺ ek indirim kazanma şansını yakalayın! Bu fırsat, sepet aşamasında geçerli olacak.",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-08",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
       "id": "picodi-stradivarius-194353",
