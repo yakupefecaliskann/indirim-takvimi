@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T12:37:55.498Z",
-  "campaigns": [
-    {
-      "id": "black-friday-2026",
-      "brands": [
-        "genel"
-      ],
-      "title": "Black Friday (Kara Cuma)",
-      "startsAt": "2026-11-26",
-      "confidence": "announced",
-      "source": "news",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEVqbXlEZnFDNGEwSGMyUkZJVjhaLWJ5dEVfTElzMEVsRUszSjVEYmpiVE94VWU0ODNiTURIM2FnbG5HcGxUZTdyRWhyVHctQVg0b0h1Qlo3QTFScTZkMVVlZ1JVSjdTaE5SazRGV1dWam5ibGVHaGFPWkV2Q2V5elVNQnF1OTVqZkpaUHpDZ2FJdWx2SmNlWVZhTTdreDNmc1dWNy12LXN5TjFxMHozZm9yclJoY1N5cE1OX0JRRWRkQQ?oc=5",
-      "lastSeenAt": "2026-11-08"
-    }
-  ],
+  "generatedAt": "2026-11-08T21:34:57.473Z",
+  "campaigns": [],
   "codes": [
     {
       "id": "picodi-gratis-155789",
@@ -457,17 +444,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-195924",
-      "brand": "pullandbear",
-      "title": "Pull and Bear’ta sonbahar kombinlerinde %15’e varan indirim!",
-      "description": "Pull and Bear’ta sonbahar koleksiyonu için %15'e varan indirim fırsatlarından yararlanabilirsiniz! Alışveriş keyfini artırmak için bu fırsatı değerlendirin.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-08",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-187813",
       "brand": "pullandbear",
       "title": "10% Pull and Bear İndirim Kampanyası",
@@ -567,17 +543,6 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-195964",
-      "brand": "stradivarius",
-      "title": "Jean modasında %10’a varan indirimleri yakala!",
-      "description": "Jean modasında %10'a varan indirimlerle moda alışverişinizi avantajlı hale getirin. Stilinizi yenileyerek tasarruf etme fırsatını mutlaka değerlendirin!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-08",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
       "id": "picodi-stradivarius-155813",
       "brand": "stradivarius",
       "title": "Stradivarius Mağazasında Özel Kampanya | Kasım",
@@ -585,17 +550,6 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-08",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-stradivarius-195767",
-      "brand": "stradivarius",
-      "title": "Stradivarius’ta kırmızı koleksiyonda 250 TL’ye varan indirim!",
-      "description": "Stradivarius’ta kırmızı koleksiyonda 250₺'ye varan indirim fırsatını kaçırmayın! Bu özel kampanya ile şık ürünlere daha uygun fiyatlarla ulaşabilirsiniz.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-08",
       "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
