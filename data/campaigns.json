@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T21:20:38.776Z",
+  "generatedAt": "2026-11-08T03:56:45.236Z",
   "campaigns": [
     {
       "id": "black-friday-2026",
@@ -12,7 +12,7 @@
       "confidence": "announced",
       "source": "news",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEVqbXlEZnFDNGEwSGMyUkZJVjhaLWJ5dEVfTElzMEVsRUszSjVEYmpiVE94VWU0ODNiTURIM2FnbG5HcGxUZTdyRWhyVHctQVg0b0h1Qlo3QTFScTZkMVVlZ1JVSjdTaE5SazRGV1dWam5ibGVHaGFPWkV2Q2V5elVNQnF1OTVqZkpaUHpDZ2FJdWx2SmNlWVZhTTdreDNmc1dWNy12LXN5TjFxMHozZm9yclJoY1N5cE1OX0JRRWRkQQ?oc=5",
-      "lastSeenAt": "2026-11-07"
+      "lastSeenAt": "2026-11-08"
     }
   ],
   "codes": [
@@ -24,7 +24,7 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -35,7 +35,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -46,7 +46,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -57,7 +57,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -68,7 +68,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -79,7 +79,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -90,7 +90,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -101,7 +101,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -112,7 +112,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -123,7 +123,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -134,7 +134,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -145,7 +145,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -156,7 +156,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -167,7 +167,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -178,7 +178,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -189,7 +189,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -200,7 +200,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -211,7 +211,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -222,7 +222,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -233,7 +233,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -244,7 +244,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -255,7 +255,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -266,7 +266,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -277,7 +277,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -288,7 +288,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -299,7 +299,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -310,7 +310,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -321,7 +321,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -332,7 +332,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -343,7 +343,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -354,7 +354,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -365,7 +365,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -376,7 +376,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -387,7 +387,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -398,7 +398,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -409,7 +409,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -420,7 +420,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -431,7 +431,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -442,7 +442,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -453,7 +453,7 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -464,7 +464,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-12",
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -475,7 +475,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -486,7 +486,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -497,7 +497,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -508,7 +508,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -519,7 +519,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -530,7 +530,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -541,7 +541,7 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -552,7 +552,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -563,7 +563,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-12",
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -574,7 +574,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -585,7 +585,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -596,7 +596,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -607,7 +607,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -618,7 +618,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-08",
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -629,7 +629,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -640,7 +640,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -651,7 +651,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -662,7 +662,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -673,7 +673,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -684,7 +684,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -695,7 +695,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -706,7 +706,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -717,7 +717,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-07",
+      "lastSeenAt": "2026-11-08",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     }
   ]
