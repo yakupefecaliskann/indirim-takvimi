@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T13:25:32.182Z",
+  "generatedAt": "2026-11-11T23:57:17.467Z",
   "campaigns": [],
   "codes": [
     {
@@ -455,6 +455,17 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-196601",
+      "brand": "pullandbear",
+      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
+      "description": "Karıştır ve Eşleştir %10 indirim https://www.pullandbear.com/tr/",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-13",
+      "lastSeenAt": "2026-11-11",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-187813",
       "brand": "pullandbear",
       "title": "10% Pull and Bear İndirim Kampanyası",
@@ -508,6 +519,17 @@
       "expiresAt": null,
       "lastSeenAt": "2026-11-11",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-stradivarius-196087",
+      "brand": "stradivarius",
+      "title": "500 TL İndirim | Stradivarius indirim kodu",
+      "description": "500 TL tasarruf için alışverişinizde indirim kuponundan yararlanın.",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-11-18",
+      "lastSeenAt": "2026-11-11",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
       "id": "picodi-stradivarius-194353",
