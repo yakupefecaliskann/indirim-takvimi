@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T04:15:55.182Z",
+  "generatedAt": "2026-11-11T13:25:32.182Z",
   "campaigns": [],
   "codes": [
     {
@@ -79,6 +79,17 @@
       "expiresAt": null,
       "lastSeenAt": "2026-11-11",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
+    },
+    {
+      "id": "picodi-watsons-196588",
+      "brand": "watsons",
+      "title": "%20 İndirim | Watsons indirim kodu",
+      "description": "İşte size online alışverişlerinizde %20'ye varan tasarruf sağlayacak bir indirim kodu! Bu fırsatla alımlarınızı daha uygun fiyatlarla gerçekleştirin.",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-11-18",
+      "lastSeenAt": "2026-11-11",
+      "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
       "id": "picodi-watsons-155999",
