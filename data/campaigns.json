@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T05:59:53.803Z",
-  "campaigns": [],
+  "generatedAt": "2026-11-12T14:59:33.937Z",
+  "campaigns": [
+    {
+      "id": "black-friday-2026",
+      "brands": [
+        "genel"
+      ],
+      "title": "Black Friday (Kara Cuma)",
+      "startsAt": "2026-11-26",
+      "confidence": "announced",
+      "source": "news",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbW5vTlBDVWNTVHdhdnVNcDB5cWZINUdzV0hIQV9JWS0xX2UxZE01R0tocHFraU9ZaUhXT0xFVmlSOWNNUUlxLWNnWEdJc3hSS3U0dHl1RTJCaW5ST1FJZUo2ME1uaHRvOEJTQm5qY05oREhiVXdBVGVhZjR2a01COVg5RHB5SnpzbmRiWENLQ001eGFaRDBrUG01eWFaRklvM1RsWFRwd2pFZ0hPSzI5R3lzMlhtdDlZbFotbTNGNzBrSThmRlR0RG1xeUVqNjQyeUFiMmY3WGZHSmN1MnRwMURlQUNWQmdfR2JXX1VmUWV4VWJYTE1YNzFWX3FIWXpmTkRBOGctaHBSdXkzQXNB?oc=5",
+      "lastSeenAt": "2026-11-12"
+    }
+  ],
   "codes": [
     {
       "id": "picodi-gratis-155789",
