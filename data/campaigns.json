@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T04:25:50.352Z",
+  "generatedAt": "2026-11-15T13:18:59.396Z",
   "campaigns": [
     {
       "id": "black-friday-2026",
@@ -523,13 +523,13 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-196718",
+      "id": "picodi-pullandbear-197133",
       "brand": "pullandbear",
       "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
       "description": "Karıştır ve Eşleştir %10 indirim",
       "code": null,
       "requiresCode": false,
-      "expiresAt": "2026-11-15",
+      "expiresAt": "2026-11-16",
       "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
