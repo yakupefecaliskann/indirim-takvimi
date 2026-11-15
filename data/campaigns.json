@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T21:54:18.687Z",
+  "generatedAt": "2026-11-15T04:25:50.352Z",
   "campaigns": [
     {
       "id": "black-friday-2026",
@@ -12,10 +12,21 @@
       "confidence": "announced",
       "source": "news",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbW5vTlBDVWNTVHdhdnVNcDB5cWZINUdzV0hIQV9JWS0xX2UxZE01R0tocHFraU9ZaUhXT0xFVmlSOWNNUUlxLWNnWEdJc3hSS3U0dHl1RTJCaW5ST1FJZUo2ME1uaHRvOEJTQm5qY05oREhiVXdBVGVhZjR2a01COVg5RHB5SnpzbmRiWENLQ001eGFaRDBrUG01eWFaRklvM1RsWFRwd2pFZ0hPSzI5R3lzMlhtdDlZbFotbTNGNzBrSThmRlR0RG1xeUVqNjQyeUFiMmY3WGZHSmN1MnRwMURlQUNWQmdfR2JXX1VmUWV4VWJYTE1YNzFWX3FIWXpmTkRBOGctaHBSdXkzQXNB?oc=5",
-      "lastSeenAt": "2026-11-14"
+      "lastSeenAt": "2026-11-15"
     }
   ],
   "codes": [
+    {
+      "id": "picodi-gratis-196888",
+      "brand": "gratis",
+      "title": "Black Friday 2026: Gratis sitesinde kampanyalar kapıda",
+      "description": "Daha az ödemeye ne dersin? Gratis sitesinde Black Friday'e az kaldı.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/gratis"
+    },
     {
       "id": "picodi-gratis-155789",
       "brand": "gratis",
@@ -24,7 +35,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -35,7 +46,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -46,7 +57,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -57,7 +68,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -68,7 +79,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -79,7 +90,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -90,7 +101,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
@@ -101,7 +112,18 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": "2026-11-18",
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/watsons"
+    },
+    {
+      "id": "picodi-watsons-197111",
+      "brand": "watsons",
+      "title": "Watsons sitesinde Black Friday yaklaşıyor",
+      "description": "Yüksek fiyatları unut! Watsons sitesinde Black Friday değerli fırsatlar getiriyor.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -112,7 +134,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -123,7 +145,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -134,7 +156,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -145,7 +167,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -156,7 +178,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
@@ -167,8 +189,19 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/watsons"
+    },
+    {
+      "id": "picodi-sephora-197038",
+      "brand": "sephora",
+      "title": "Black Friday 2026 indirimleri Sephora sitesinde",
+      "description": "Zaman kaybetme: Sephora sitesine gir ve Black Friday için neler hazırlandığını gör.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
       "id": "picodi-sephora-155994",
@@ -178,7 +211,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -189,7 +222,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -200,7 +233,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -211,7 +244,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -222,7 +255,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -233,7 +266,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -244,7 +277,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
@@ -255,8 +288,19 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/sephora"
+    },
+    {
+      "id": "picodi-rossmann-197027",
+      "brand": "rossmann",
+      "title": "rosmann sitesinde efsane Black Friday kampanyaları",
+      "description": "Black Friday ile tam fiyatlara elveda! rosmann sitesinde fiyatların düşüp düşmediğini kontrol et.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
       "id": "picodi-rossmann-156292",
@@ -266,7 +310,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -277,7 +321,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -288,7 +332,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -299,7 +343,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -310,7 +354,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
@@ -321,8 +365,19 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
+    },
+    {
+      "id": "picodi-zara-197122",
+      "brand": "zara",
+      "title": "Black Friday 2026: zara sitesinde promosyonlar yakında",
+      "description": "Black Friday için zara sitesinde neler hazırlandığını ilk sen mi öğrenmek istiyorsun? Siteye gir.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
       "id": "picodi-zara-156021",
@@ -332,7 +387,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -343,7 +398,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -354,7 +409,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -365,7 +420,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -376,7 +431,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -387,7 +442,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
@@ -398,8 +453,19 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/zara"
+    },
+    {
+      "id": "picodi-bershka-196793",
+      "brand": "bershka",
+      "title": "Bershka sitesinde süper Black Friday kampanyaları",
+      "description": "Parayı sadece değdiğinde harca! Bershka sitesinde Black Friday ideal bir an.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
       "id": "picodi-bershka-156023",
@@ -409,7 +475,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -420,7 +486,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -431,7 +497,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -442,7 +508,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
@@ -453,7 +519,7 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -464,7 +530,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-15",
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -475,7 +541,18 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-197015",
+      "brand": "pullandbear",
+      "title": "Pull and Bear sitesinde çılgın Black Friday indirimleri",
+      "description": "Pull and Bear sitesinde görüşmek üzere! Black Friday'e az kaldı.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -486,7 +563,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -497,7 +574,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -508,7 +585,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -519,7 +596,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
@@ -530,7 +607,7 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": "2026-11-18",
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -541,7 +618,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -552,7 +629,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-30",
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -563,7 +640,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -574,7 +651,18 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-197059",
+      "brand": "stradivarius",
+      "title": "Stradivarius sitesinde Black Friday öncesi indirimler",
+      "description": "Kim düşük fiyatları sevmez? Stradivarius Black Friday için sürprizler hazırlıyor – takipte kal!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -585,7 +673,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -596,7 +684,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
@@ -607,8 +695,19 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-oysho-196994",
+      "brand": "oysho",
+      "title": "oysho sitesinde özel Black Friday 2026 indirimleri",
+      "description": "Parayı sadece değdiğinde harca! oysho sitesinde Black Friday ideal bir an.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-15",
+      "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
       "id": "picodi-oysho-156024",
@@ -618,7 +717,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -629,7 +728,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -640,7 +739,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -651,7 +750,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -662,7 +761,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -673,7 +772,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
@@ -684,7 +783,7 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenAt": "2026-11-15",
       "sourceUrl": "https://www.picodi.com/tr/oysho"
     }
   ]
