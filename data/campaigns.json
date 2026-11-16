@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T04:23:49.052Z",
-  "campaigns": [],
+  "generatedAt": "2026-11-16T14:33:07.422Z",
+  "campaigns": [
+    {
+      "id": "black-friday-2026",
+      "brands": [
+        "genel"
+      ],
+      "title": "Black Friday (Kara Cuma)",
+      "startsAt": "2026-11-26",
+      "confidence": "announced",
+      "source": "news",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbW5vTlBDVWNTVHdhdnVNcDB5cWZINUdzV0hIQV9JWS0xX2UxZE01R0tocHFraU9ZaUhXT0xFVmlSOWNNUUlxLWNnWEdJc3hSS3U0dHl1RTJCaW5ST1FJZUo2ME1uaHRvOEJTQm5qY05oREhiVXdBVGVhZjR2a01COVg5RHB5SnpzbmRiWENLQ001eGFaRDBrUG01eWFaRklvM1RsWFRwd2pFZ0hPSzI5R3lzMlhtdDlZbFotbTNGNzBrSThmRlR0RG1xeUVqNjQyeUFiMmY3WGZHSmN1MnRwMURlQUNWQmdfR2JXX1VmUWV4VWJYTE1YNzFWX3FIWXpmTkRBOGctaHBSdXkzQXNB?oc=5",
+      "lastSeenAt": "2026-11-16"
+    }
+  ],
   "codes": [
     {
       "id": "picodi-gratis-196888",
@@ -510,13 +523,13 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-197133",
+      "id": "picodi-pullandbear-197153",
       "brand": "pullandbear",
       "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
       "description": "Karıştır ve Eşleştir %10 indirim",
       "code": null,
       "requiresCode": false,
-      "expiresAt": "2026-11-16",
+      "expiresAt": "2026-11-17",
       "lastSeenAt": "2026-11-16",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
