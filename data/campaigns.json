@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T14:57:50.947Z",
+  "generatedAt": "2026-11-18T23:48:33.810Z",
   "campaigns": [],
   "codes": [
     {
@@ -660,17 +660,6 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-18",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-stradivarius-196087",
-      "brand": "stradivarius",
-      "title": "500 TL İndirim | Stradivarius indirim kodu",
-      "description": "500 TL tasarruf için alışverişinizde indirim kuponundan yararlanın.",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-11-18",
       "lastSeenAt": "2026-11-18",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
