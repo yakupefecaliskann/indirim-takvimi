@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T00:23:46.999Z",
-  "campaigns": [
-    {
-      "id": "black-friday-2026",
-      "brands": [
-        "genel"
-      ],
-      "title": "Black Friday (Kara Cuma)",
-      "startsAt": "2026-11-26",
-      "confidence": "announced",
-      "source": "news",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbW5vTlBDVWNTVHdhdnVNcDB5cWZINUdzV0hIQV9JWS0xX2UxZE01R0tocHFraU9ZaUhXT0xFVmlSOWNNUUlxLWNnWEdJc3hSS3U0dHl1RTJCaW5ST1FJZUo2ME1uaHRvOEJTQm5qY05oREhiVXdBVGVhZjR2a01COVg5RHB5SnpzbmRiWENLQ001eGFaRDBrUG01eWFaRklvM1RsWFRwd2pFZ0hPSzI5R3lzMlhtdDlZbFotbTNGNzBrSThmRlR0RG1xeUVqNjQyeUFiMmY3WGZHSmN1MnRwMURlQUNWQmdfR2JXX1VmUWV4VWJYTE1YNzFWX3FIWXpmTkRBOGctaHBSdXkzQXNB?oc=5",
-      "lastSeenAt": "2026-11-18"
-    }
-  ],
+  "generatedAt": "2026-11-18T14:57:50.947Z",
+  "campaigns": [],
   "codes": [
     {
       "id": "picodi-gratis-196888",
@@ -28,10 +15,32 @@
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
+      "id": "picodi-gratis-175417",
+      "brand": "gratis",
+      "title": "Gratis İndirimler",
+      "description": "Gratis Kart sahiplerine çeşitli indirimler!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-18",
+      "sourceUrl": "https://www.picodi.com/tr/gratis"
+    },
+    {
       "id": "picodi-gratis-155789",
       "brand": "gratis",
       "title": "Kasım İndirimleri | Gratis promosyon kodu Olmadan Tasarruf Et",
       "description": "Aynen öyle! Gratis promosyon kodu kullanmadan büyük tasarruf!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-18",
+      "sourceUrl": "https://www.picodi.com/tr/gratis"
+    },
+    {
+      "id": "picodi-gratis-157438",
+      "brand": "gratis",
+      "title": "Gratis Makyaj Ürünleri",
+      "description": "13₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -72,17 +81,6 @@
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
-      "id": "picodi-gratis-157438",
-      "brand": "gratis",
-      "title": "Gratis Makyaj Ürünleri",
-      "description": "13₺'den başlayan fiyatlarla!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-18",
-      "sourceUrl": "https://www.picodi.com/tr/gratis"
-    },
-    {
       "id": "picodi-gratis-154635",
       "brand": "gratis",
       "title": "Gratis Mağaza Teslimat Fırsatı",
@@ -92,28 +90,6 @@
       "expiresAt": null,
       "lastSeenAt": "2026-11-18",
       "sourceUrl": "https://www.picodi.com/tr/gratis"
-    },
-    {
-      "id": "picodi-gratis-175417",
-      "brand": "gratis",
-      "title": "Gratis İndirimler",
-      "description": "Gratis Kart sahiplerine çeşitli indirimler!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-18",
-      "sourceUrl": "https://www.picodi.com/tr/gratis"
-    },
-    {
-      "id": "picodi-watsons-196588",
-      "brand": "watsons",
-      "title": "%20 İndirim | Watsons indirim kodu",
-      "description": "İşte size online alışverişlerinizde %20'ye varan tasarruf sağlayacak bir indirim kodu! Bu fırsatla alımlarınızı daha uygun fiyatlarla gerçekleştirin.",
-      "code": null,
-      "requiresCode": true,
-      "expiresAt": "2026-11-18",
-      "lastSeenAt": "2026-11-18",
-      "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
       "id": "picodi-watsons-197111",
@@ -523,13 +499,13 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-197193",
+      "id": "picodi-pullandbear-197210",
       "brand": "pullandbear",
       "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
       "description": "Karıştır ve Eşleştir %10 indirim",
       "code": null,
       "requiresCode": false,
-      "expiresAt": "2026-11-18",
+      "expiresAt": "2026-11-20",
       "lastSeenAt": "2026-11-18",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
@@ -677,6 +653,17 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
+      "id": "picodi-stradivarius-194353",
+      "brand": "stradivarius",
+      "title": "Fırsatı kaçırma! Stradivarius uygulamasında %40’a varan indirim!",
+      "description": "Fırsatların tadını çıkarın! Stradivarius'ta %40'a varan indirimlerle alışverişinizi daha uygun hale getirin.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-18",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
       "id": "picodi-stradivarius-196087",
       "brand": "stradivarius",
       "title": "500 TL İndirim | Stradivarius indirim kodu",
@@ -688,15 +675,15 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-194353",
-      "brand": "stradivarius",
-      "title": "Fırsatı kaçırma! Stradivarius uygulamasında %40’a varan indirim!",
-      "description": "Fırsatların tadını çıkarın! Stradivarius'ta %40'a varan indirimlerle alışverişinizi daha uygun hale getirin.",
+      "id": "picodi-oysho-159824",
+      "brand": "oysho",
+      "title": "%50 oysho İndirim Kampanyası",
+      "description": "Çok beklenen %50'ye varan oysho indirim fırsatları başladı!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
       "lastSeenAt": "2026-11-18",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+      "sourceUrl": "https://www.picodi.com/tr/oysho"
     },
     {
       "id": "picodi-oysho-196994",
@@ -714,17 +701,6 @@
       "brand": "oysho",
       "title": "Kasım Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
       "description": "İndirim mi lazım? Bu mega kampanyalara bir göz at!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-18",
-      "sourceUrl": "https://www.picodi.com/tr/oysho"
-    },
-    {
-      "id": "picodi-oysho-159824",
-      "brand": "oysho",
-      "title": "%50 oysho İndirim Kampanyası",
-      "description": "Çok beklenen %50'ye varan oysho indirim fırsatları başladı!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
