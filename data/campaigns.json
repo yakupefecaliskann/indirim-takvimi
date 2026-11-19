@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T05:35:13.483Z",
+  "generatedAt": "2026-11-19T15:04:59.015Z",
   "campaigns": [],
   "codes": [
     {
@@ -191,6 +191,17 @@
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
+      "id": "picodi-sephora-124331",
+      "brand": "sephora",
+      "title": "Sephora'dan Hediye Ürünler",
+      "description": "Birçok markada %50'ye varan indirimlere ek hediye ürünleri kazanabilirsiniz! Detaylı bilgi için tıklayın.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-19",
+      "sourceUrl": "https://www.picodi.com/tr/sephora"
+    },
+    {
       "id": "picodi-sephora-164928",
       "brand": "sephora",
       "title": "Sephora Hediye Ürün Kampanyası",
@@ -239,17 +250,6 @@
       "brand": "sephora",
       "title": "Sephora Kolay İade İmkanı",
       "description": "14 gün içinde ücretsiz iade fırsatı.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-19",
-      "sourceUrl": "https://www.picodi.com/tr/sephora"
-    },
-    {
-      "id": "picodi-sephora-124331",
-      "brand": "sephora",
-      "title": "Sephora'dan Hediye Ürünler",
-      "description": "Birçok markada %50'ye varan indirimlere ek hediye ürünleri kazanabilirsiniz! Detaylı bilgi için tıklayın.",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -444,32 +444,10 @@
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
-      "id": "picodi-bershka-156023",
-      "brand": "bershka",
-      "title": "Bershka Kasım Fırsatlarını Kaçırma!",
-      "description": "Bershka mağazasında bu fantastik indirimlere gözat ve bugün tassarufa başla!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-19",
-      "sourceUrl": "https://www.picodi.com/tr/bershka"
-    },
-    {
       "id": "picodi-bershka-157405",
       "brand": "bershka",
       "title": "Bershka | BSK Teen Pantolon ve Kargo Pantolon",
       "description": "300,95₺'den başlayan fiyatlarla!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-19",
-      "sourceUrl": "https://www.picodi.com/tr/bershka"
-    },
-    {
-      "id": "picodi-bershka-155228",
-      "brand": "bershka",
-      "title": "Bershka | BSK Teen Tişört & Top",
-      "description": "199,95₺'den başlayan fiyatlar + indirimlerle!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -488,6 +466,28 @@
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
+      "id": "picodi-bershka-156023",
+      "brand": "bershka",
+      "title": "Bershka Kasım Fırsatlarını Kaçırma!",
+      "description": "Bershka mağazasında bu fantastik indirimlere gözat ve bugün tassarufa başla!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-19",
+      "sourceUrl": "https://www.picodi.com/tr/bershka"
+    },
+    {
+      "id": "picodi-bershka-155228",
+      "brand": "bershka",
+      "title": "Bershka | BSK Teen Tişört & Top",
+      "description": "199,95₺'den başlayan fiyatlar + indirimlerle!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-19",
+      "sourceUrl": "https://www.picodi.com/tr/bershka"
+    },
+    {
       "id": "picodi-pullandbear-186411",
       "brand": "pullandbear",
       "title": "%10 Pull and Bear indirim kodu",
@@ -495,17 +495,6 @@
       "code": null,
       "requiresCode": true,
       "expiresAt": null,
-      "lastSeenAt": "2026-11-19",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
-      "id": "picodi-pullandbear-197210",
-      "brand": "pullandbear",
-      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
-      "description": "Karıştır ve Eşleştir %10 indirim",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-20",
       "lastSeenAt": "2026-11-19",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
@@ -543,6 +532,17 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-172877",
+      "brand": "pullandbear",
+      "title": "Pull and Bear Uygulama İndirimi",
+      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-19",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-183116",
       "brand": "pullandbear",
       "title": "Pull and Bear Ücretsiz Kargo Fırsatı",
@@ -565,13 +565,13 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-172877",
+      "id": "picodi-pullandbear-197210",
       "brand": "pullandbear",
-      "title": "Pull and Bear Uygulama İndirimi",
-      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
+      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
+      "description": "Karıştır ve Eşleştir %10 indirim",
       "code": null,
       "requiresCode": false,
-      "expiresAt": null,
+      "expiresAt": "2026-11-20",
       "lastSeenAt": "2026-11-19",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
