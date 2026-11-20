@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T00:11:18.068Z",
+  "generatedAt": "2026-11-20T14:46:23.644Z",
   "campaigns": [],
   "codes": [
     {
@@ -114,6 +114,17 @@
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
+      "id": "picodi-watsons-157484",
+      "brand": "watsons",
+      "title": "Watsons Makyaj Ürünleri",
+      "description": "6,99₺'den başlayan fiyatlarla!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-20",
+      "sourceUrl": "https://www.picodi.com/tr/watsons"
+    },
+    {
       "id": "picodi-watsons-156228",
       "brand": "watsons",
       "title": "Watsons Erkek Parfümler",
@@ -151,17 +162,6 @@
       "brand": "watsons",
       "title": "Watsons Aksesuarlar",
       "description": "9,99₺'den başlayan fiyatlarla!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-20",
-      "sourceUrl": "https://www.picodi.com/tr/watsons"
-    },
-    {
-      "id": "picodi-watsons-157484",
-      "brand": "watsons",
-      "title": "Watsons Makyaj Ürünleri",
-      "description": "6,99₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -499,6 +499,28 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-172877",
+      "brand": "pullandbear",
+      "title": "Pull and Bear Uygulama İndirimi",
+      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-20",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-197269",
+      "brand": "pullandbear",
+      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
+      "description": "Karıştır ve Eşleştir %10 indirim",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-21",
+      "lastSeenAt": "2026-11-20",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-187813",
       "brand": "pullandbear",
       "title": "10% Pull and Bear İndirim Kampanyası",
@@ -532,17 +554,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-172877",
-      "brand": "pullandbear",
-      "title": "Pull and Bear Uygulama İndirimi",
-      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-20",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-183116",
       "brand": "pullandbear",
       "title": "Pull and Bear Ücretsiz Kargo Fırsatı",
@@ -565,15 +576,15 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-197210",
-      "brand": "pullandbear",
-      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
-      "description": "Karıştır ve Eşleştir %10 indirim",
+      "id": "picodi-stradivarius-190356",
+      "brand": "stradivarius",
+      "title": "Stradivarius'ta Seçili Ürünlerde %15 İndirim",
+      "description": "Stradivarius'ta şık giyim ve aksesuarlar için %15'e varan indirim fırsatını kaçırmayın. Alışverişinizde tasarruf yaparken stilinizi de yansıtın.",
       "code": null,
       "requiresCode": false,
-      "expiresAt": "2026-11-20",
+      "expiresAt": null,
       "lastSeenAt": "2026-11-20",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
       "id": "picodi-stradivarius-196538",
@@ -587,28 +598,6 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-192797",
-      "brand": "stradivarius",
-      "title": "Stradivarius’ta ayakkabı alışverişinde %20’ye varan tasarruf!",
-      "description": "Stradivarius’ta ayakkabı alışverişlerinizde %20’ye varan tasarruf fırsatını yakalayın! Fırsatlar sınırlı stoklar ile geçerlidir.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-20",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-stradivarius-190356",
-      "brand": "stradivarius",
-      "title": "Stradivarius'ta Seçili Ürünlerde %15 İndirim",
-      "description": "Stradivarius'ta şık giyim ve aksesuarlar için %15'e varan indirim fırsatını kaçırmayın. Alışverişinizde tasarruf yaparken stilinizi de yansıtın.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-20",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
       "id": "picodi-stradivarius-197059",
       "brand": "stradivarius",
       "title": "Stradivarius sitesinde Black Friday öncesi indirimler",
@@ -616,6 +605,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-20",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-192797",
+      "brand": "stradivarius",
+      "title": "Stradivarius’ta ayakkabı alışverişinde %20’ye varan tasarruf!",
+      "description": "Stradivarius’ta ayakkabı alışverişlerinizde %20’ye varan tasarruf fırsatını yakalayın! Fırsatlar sınırlı stoklar ile geçerlidir.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
       "lastSeenAt": "2026-11-20",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
