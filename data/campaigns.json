@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T14:46:23.644Z",
+  "generatedAt": "2026-11-20T23:35:09.567Z",
   "campaigns": [],
   "codes": [
     {
@@ -587,17 +587,6 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-196538",
-      "brand": "stradivarius",
-      "title": "Stradivarius’ta Hırkalarda %20’ye Varan İndirim!",
-      "description": "Stradivarius’ta hırkalarda %20'ye varan indirim fırsatlarıyla harika tasarruflar elde edin!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-30",
-      "lastSeenAt": "2026-11-20",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
       "id": "picodi-stradivarius-197059",
       "brand": "stradivarius",
       "title": "Stradivarius sitesinde Black Friday öncesi indirimler",
@@ -605,6 +594,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-20",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-196538",
+      "brand": "stradivarius",
+      "title": "Stradivarius’ta Hırkalarda %20’ye Varan İndirim!",
+      "description": "Stradivarius’ta hırkalarda %20'ye varan indirim fırsatlarıyla harika tasarruflar elde edin!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-30",
       "lastSeenAt": "2026-11-20",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
