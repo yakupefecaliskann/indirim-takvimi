@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T14:02:04.643Z",
+  "generatedAt": "2026-11-21T22:41:24.475Z",
   "campaigns": [],
   "codes": [
     {
@@ -202,10 +202,10 @@
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
-      "id": "picodi-sephora-164928",
+      "id": "picodi-sephora-120833",
       "brand": "sephora",
-      "title": "Sephora Hediye Ürün Kampanyası",
-      "description": "3000 TL ve üzeri alışverişlerde 4 mini ürün ve çanta HEDİYE!",
+      "title": "Sephora Deneme Ürün Kampanyası",
+      "description": "Tüm Sephora alışverişlerinize deneme boy ürün hediye!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -213,10 +213,10 @@
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
-      "id": "picodi-sephora-120833",
+      "id": "picodi-sephora-164928",
       "brand": "sephora",
-      "title": "Sephora Deneme Ürün Kampanyası",
-      "description": "Tüm Sephora alışverişlerinize deneme boy ürün hediye!",
+      "title": "Sephora Hediye Ürün Kampanyası",
+      "description": "3000 TL ve üzeri alışverişlerde 4 mini ürün ve çanta HEDİYE!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
