@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T05:15:43.491Z",
-  "campaigns": [
-    {
-      "id": "black-friday-2026",
-      "brands": [
-        "genel"
-      ],
-      "title": "Black Friday (Kara Cuma)",
-      "startsAt": "2026-11-26",
-      "confidence": "announced",
-      "source": "news",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbW5vTlBDVWNTVHdhdnVNcDB5cWZINUdzV0hIQV9JWS0xX2UxZE01R0tocHFraU9ZaUhXT0xFVmlSOWNNUUlxLWNnWEdJc3hSS3U0dHl1RTJCaW5ST1FJZUo2ME1uaHRvOEJTQm5qY05oREhiVXdBVGVhZjR2a01COVg5RHB5SnpzbmRiWENLQ001eGFaRDBrUG01eWFaRklvM1RsWFRwd2pFZ0hPSzI5R3lzMlhtdDlZbFotbTNGNzBrSThmRlR0RG1xeUVqNjQyeUFiMmY3WGZHSmN1MnRwMURlQUNWQmdfR2JXX1VmUWV4VWJYTE1YNzFWX3FIWXpmTkRBOGctaHBSdXkzQXNB?oc=5",
-      "lastSeenAt": "2026-11-21"
-    }
-  ],
+  "generatedAt": "2026-11-21T14:02:04.643Z",
+  "campaigns": [],
   "codes": [
     {
       "id": "picodi-gratis-196888",
@@ -61,10 +48,10 @@
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
-      "id": "picodi-gratis-157440",
+      "id": "picodi-gratis-154635",
       "brand": "gratis",
-      "title": "Gratis Erkek Parfümler",
-      "description": "131,50₺'den başlayan fiyatlarla!",
+      "title": "Gratis Mağaza Teslimat Fırsatı",
+      "description": "81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatı!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -72,10 +59,10 @@
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
-      "id": "picodi-gratis-154636",
+      "id": "picodi-gratis-157440",
       "brand": "gratis",
-      "title": "Gratis Erkek Tıraş Ürünleri",
-      "description": "42,50₺'den başlayan fiyatlarla!",
+      "title": "Gratis Erkek Parfümler",
+      "description": "131,50₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -94,10 +81,10 @@
       "sourceUrl": "https://www.picodi.com/tr/gratis"
     },
     {
-      "id": "picodi-gratis-154635",
+      "id": "picodi-gratis-154636",
       "brand": "gratis",
-      "title": "Gratis Mağaza Teslimat Fırsatı",
-      "description": "81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatı!",
+      "title": "Gratis Erkek Tıraş Ürünleri",
+      "description": "42,50₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -226,6 +213,17 @@
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
+      "id": "picodi-sephora-120833",
+      "brand": "sephora",
+      "title": "Sephora Deneme Ürün Kampanyası",
+      "description": "Tüm Sephora alışverişlerinize deneme boy ürün hediye!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-21",
+      "sourceUrl": "https://www.picodi.com/tr/sephora"
+    },
+    {
       "id": "picodi-sephora-155545",
       "brand": "sephora",
       "title": "Sephora Saç Kremleri",
@@ -263,17 +261,6 @@
       "brand": "sephora",
       "title": "Sephora Kolay İade İmkanı",
       "description": "14 gün içinde ücretsiz iade fırsatı.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-21",
-      "sourceUrl": "https://www.picodi.com/tr/sephora"
-    },
-    {
-      "id": "picodi-sephora-120833",
-      "brand": "sephora",
-      "title": "Sephora Deneme Ürün Kampanyası",
-      "description": "Tüm Sephora alışverişlerinize deneme boy ürün hediye!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -457,6 +444,17 @@
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
+      "id": "picodi-bershka-156023",
+      "brand": "bershka",
+      "title": "Bershka Kasım Fırsatlarını Kaçırma!",
+      "description": "Bershka mağazasında bu fantastik indirimlere gözat ve bugün tassarufa başla!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-21",
+      "sourceUrl": "https://www.picodi.com/tr/bershka"
+    },
+    {
       "id": "picodi-bershka-157405",
       "brand": "bershka",
       "title": "Bershka | BSK Teen Pantolon ve Kargo Pantolon",
@@ -472,17 +470,6 @@
       "brand": "bershka",
       "title": "Bershka | BSK Teen Sweatshirt ve Kazak",
       "description": "370,90₺'den başlayan fiyatlarla!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-21",
-      "sourceUrl": "https://www.picodi.com/tr/bershka"
-    },
-    {
-      "id": "picodi-bershka-156023",
-      "brand": "bershka",
-      "title": "Bershka Kasım Fırsatlarını Kaçırma!",
-      "description": "Bershka mağazasında bu fantastik indirimlere gözat ve bugün tassarufa başla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -512,17 +499,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-197304",
-      "brand": "pullandbear",
-      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
-      "description": "Karıştır ve Eşleştir %10 indirim",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-23",
-      "lastSeenAt": "2026-11-21",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-172877",
       "brand": "pullandbear",
       "title": "Pull and Bear Uygulama İndirimi",
@@ -530,6 +506,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-11-21",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-197304",
+      "brand": "pullandbear",
+      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
+      "description": "Karıştır ve Eşleştir %10 indirim",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-23",
       "lastSeenAt": "2026-11-21",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
