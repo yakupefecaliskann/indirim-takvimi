@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/date_symbol_data_local.dart';
@@ -17,8 +19,10 @@ Future<void> main() async {
   final AppSettings settings = await AppSettings.load();
   final AppState state = AppState(settings: settings);
   unawaitedBootstrap(state);
-  await registerBackgroundSync();
   runApp(IndirimTakvimiApp(state: state));
+  // Arka plan görevinin kurulumu ilk kareyi bekletmesin; kendi hatalarını
+  // zaten yutuyor, kurulamazsa uygulama yine çalışır.
+  unawaited(registerBackgroundSync());
 }
 
 void unawaitedBootstrap(AppState state) {

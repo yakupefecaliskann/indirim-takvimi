@@ -16,7 +16,10 @@ class NotificationScheduler {
       : _plugin = plugin ?? FlutterLocalNotificationsPlugin();
 
   final FlutterLocalNotificationsPlugin _plugin;
-  bool _ready = false;
+
+  /// Kurulum aynı anda birden çok yerden istenebiliyor (açılış + ayarlar
+  /// ekranı). Tek bir Future paylaşılırsa eklenti yalnızca bir kez kurulur.
+  Future<void>? _initFuture;
 
   static const String _channelId = 'kampanya_hatirlatma';
   static const String _channelName = 'Kampanya Hatırlatmaları';
@@ -24,7 +27,17 @@ class NotificationScheduler {
       'İndirim günleri yaklaştığında hatırlatır.';
 
   Future<void> init() async {
-    if (_ready) return;
+    final Future<void> pending = _initFuture ??= _init();
+    try {
+      await pending;
+    } catch (_) {
+      // Başarısız kurulum önbelleğe alınmaz; bir dahaki sefere tekrar denenir.
+      if (identical(_initFuture, pending)) _initFuture = null;
+      rethrow;
+    }
+  }
+
+  Future<void> _init() async {
     tzdata.initializeTimeZones();
     // Uygulama Türkiye'ye özel; cihaz saat dilimini okumak için ek bir paket
     // eklemek yerine sabit konum kullanılıyor.
@@ -43,7 +56,6 @@ class NotificationScheduler {
         importance: Importance.high,
       ),
     );
-    _ready = true;
   }
 
   AndroidFlutterLocalNotificationsPlugin? get _android =>
@@ -105,8 +117,10 @@ class NotificationScheduler {
     return scheduled;
   }
 
-  Future<int> pendingCount() async =>
-      (await _plugin.pendingNotificationRequests()).length;
+  Future<int> pendingCount() async {
+    await init();
+    return (await _plugin.pendingNotificationRequests()).length;
+  }
 
   /// Ayarlar ekranındaki "bildirimleri dene" düğmesi için.
   Future<void> showTestNotification() async {

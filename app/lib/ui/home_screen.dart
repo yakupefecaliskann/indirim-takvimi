@@ -76,7 +76,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 onChanged: (BrandCategory? c) => setState(() => _category = c),
               ),
             ),
-            if (s.offline) const SliverToBoxAdapter(child: _OfflineNotice()),
+            if (s.offline)
+              SliverToBoxAdapter(
+                child: _OfflineNotice(onlyComputed: s.onlyComputed),
+              ),
             if (list.isEmpty)
               const SliverFillRemaining(
                 hasScrollBody: false,
@@ -145,7 +148,10 @@ class _CategoryChips extends StatelessWidget {
 }
 
 class _OfflineNotice extends StatelessWidget {
-  const _OfflineNotice();
+  const _OfflineNotice({required this.onlyComputed});
+
+  /// Elde hiç canlı veri kalmadı mı, yoksa son kaydedilen liste mi gösteriliyor.
+  final bool onlyComputed;
 
   @override
   Widget build(BuildContext context) {
@@ -165,8 +171,13 @@ class _OfflineNotice extends StatelessWidget {
             const SizedBox(width: 10),
             Expanded(
               child: Text(
-                'Canlı kampanyalara şu an ulaşılamıyor. Aşağıdaki takvim '
-                'uygulamanın kendi hesabından geliyor ve çalışmaya devam ediyor.',
+                onlyComputed
+                    ? 'Canlı kampanyalara şu an ulaşılamıyor. Aşağıdaki takvim '
+                        'uygulamanın kendi hesabından geliyor ve çalışmaya '
+                        'devam ediyor.'
+                    : 'Canlı kampanyalara şu an ulaşılamıyor. En son '
+                        'kaydedilen liste gösteriliyor; bağlantı gelince '
+                        'kendiliğinden tazelenir.',
                 style: Theme.of(context).textTheme.bodySmall?.copyWith(
                       color: scheme.onSurfaceVariant,
                     ),

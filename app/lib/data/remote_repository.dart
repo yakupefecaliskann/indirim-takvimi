@@ -28,7 +28,9 @@ class RemoteRepository {
     try {
       final File f = await _cacheFile();
       if (!await f.exists()) return RemoteData.empty;
-      return RemoteData.parse(await f.readAsString());
+      // asCached(): bu veri ağdan gelmedi. Çağıran taraf bunu başarılı bir
+      // güncelleme sayıp bir sonraki denemeyi ertelemesin.
+      return RemoteData.parse(await f.readAsString()).asCached();
     } catch (e) {
       debugPrint('Önbellek okunamadı: $e');
       return RemoteData.empty;

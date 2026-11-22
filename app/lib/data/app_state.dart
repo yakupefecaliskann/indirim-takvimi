@@ -34,8 +34,18 @@ class AppState extends ChangeNotifier {
   bool loading = true;
   bool refreshing = false;
 
-  /// Uzak veriye hiç ulaşılamadı; ekrandakiler hesaplanan takvimden geliyor.
+  /// Canlı veriye şu an ulaşılamıyor; ekrandakiler önbellekten ya da
+  /// hesaplanan takvimden geliyor.
   bool offline = false;
+
+  /// Çevrimdışıyken elde hiç uzak veri kalmadı; takvim tamamen hesaplanandan
+  /// geliyor. Arayüz bu iki durumu farklı anlatıyor.
+  bool get onlyComputed => campaigns.every(
+        (Campaign c) => c.source == CampaignSource.computed,
+      );
+
+  /// İşletim sistemine son kurulan hatırlatma sayısı.
+  int? scheduledCount;
 
   DateTime get now => DateTime.now();
 
@@ -62,8 +72,11 @@ class AppState extends ChangeNotifier {
     notifyListeners();
 
     final RemoteData fresh = await _repo.refresh();
-    offline = fresh.isEmpty;
-    if (!fresh.isEmpty) {
+    // Önbelleğe düşmek bir güncelleme değildir: `lastFetch` yazılsaydı tek bir
+    // ağ hatası bir sonraki denemeyi kMinFetchInterval boyunca kilitler ve
+    // ayarlar ekranı "az önce güncellendi" derdi.
+    offline = fresh.fromCache;
+    if (!fresh.fromCache) {
       await settings.setLastFetch(DateTime.now());
     }
     _apply(fresh);
@@ -95,7 +108,14 @@ class AppState extends ChangeNotifier {
     final List<Campaign> wanted = campaigns
         .where((Campaign c) => !c.brandIds.every(muted.contains))
         .toList();
-    await _scheduler.rescheduleAll(wanted, now: now);
+    try {
+      scheduledCount = await _scheduler.rescheduleAll(wanted, now: now);
+    } catch (e) {
+      // Bildirim katmanı kurulamazsa takvim ekranı yine çalışmalı.
+      debugPrint('Hatırlatmalar kurulamadı: $e');
+      scheduledCount = 0;
+    }
+    notifyListeners();
   }
 
   Future<void> setCodeBroken(String id, bool broken) async {

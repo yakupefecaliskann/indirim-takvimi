@@ -35,6 +35,21 @@ String confidenceLabel(CampaignConfidence c) => switch (c) {
       CampaignConfidence.live => 'Şu an aktif',
     };
 
+/// Verinin en son ne zaman **çekildiği**. [lastSeenLabel] fırsatın ne zaman
+/// doğrulandığını anlatır; ikisi farklı şeyler ve karıştırılmamalı.
+String lastFetchLabel(DateTime? lastFetch, DateTime now) {
+  if (lastFetch == null) return 'Henüz güncellenmedi';
+  final int days = dateOnly(now).difference(dateOnly(lastFetch)).inDays;
+  if (days <= 0) return 'Bugün ${_hhmm(lastFetch)} güncellendi';
+  if (days == 1) return 'Dün güncellendi';
+  return '$days gün önce güncellendi';
+}
+
+/// Saat, dil verisine bağlı olmasın diye elle biçimlendiriliyor: rakamdan
+/// ibaret ve her yerde aynı.
+String _hhmm(DateTime t) =>
+    '${t.hour.toString().padLeft(2, '0')}:${t.minute.toString().padLeft(2, '0')}';
+
 String lastSeenLabel(DateTime? lastSeen, DateTime now) {
   if (lastSeen == null) return 'Doğrulama bilgisi yok';
   final int days = dateOnly(now).difference(dateOnly(lastSeen)).inDays;

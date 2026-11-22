@@ -34,7 +34,9 @@ void callbackDispatcher() {
 Future<void> syncAndReschedule() async {
   final AppSettings settings = await AppSettings.load();
   final RemoteData data = await RemoteRepository().refresh();
-  if (!data.isEmpty) {
+  // Yalnızca ağdan taze veri geldiyse "güncellendi" say; önbelleğe düşmek
+  // bir güncelleme değil (bkz. RemoteData.fromCache).
+  if (!data.fromCache) {
     await settings.setLastFetch(DateTime.now());
   }
 

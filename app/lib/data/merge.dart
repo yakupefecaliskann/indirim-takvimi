@@ -15,16 +15,36 @@ class RemoteData {
     required this.campaigns,
     required this.codes,
     this.generatedAt,
+    this.fromCache = false,
   });
 
   final List<Campaign> campaigns;
   final List<DiscountCode> codes;
   final DateTime? generatedAt;
 
-  static const RemoteData empty =
-      RemoteData(campaigns: <Campaign>[], codes: <DiscountCode>[]);
+  /// Bu veri ağdan **taze** gelmedi; diskteki son iyi kopyadan okundu.
+  ///
+  /// Ayrım önemli: ağ hatasında önbelleğe düşmek doğru davranış, ama bunu
+  /// başarılı bir güncelleme saymak yanlış olurdu — uygulama "az önce
+  /// güncellendi" deyip bir sonraki denemeyi saatlerce ertelerdi.
+  final bool fromCache;
+
+  static const RemoteData empty = RemoteData(
+    campaigns: <Campaign>[],
+    codes: <DiscountCode>[],
+    fromCache: true,
+  );
 
   bool get isEmpty => campaigns.isEmpty && codes.isEmpty;
+
+  RemoteData asCached() => fromCache
+      ? this
+      : RemoteData(
+          campaigns: campaigns,
+          codes: codes,
+          generatedAt: generatedAt,
+          fromCache: true,
+        );
 
   static RemoteData parse(String jsonText) {
     Object? decoded;

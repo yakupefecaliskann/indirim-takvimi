@@ -80,9 +80,24 @@ cd app
 flutter build apk --release --split-per-abi
 ```
 
-`build/app/outputs/flutter-apk/app-arm64-v8a-release.apk` dosyasını gönder
-(neredeyse tüm modern Android telefonlar arm64). Telefonda "bilinmeyen
+Gönderilecek dosya: **`app/build/app/outputs/flutter-apk/app-arm64-v8a-release.apk`**
+(~18 MB). Neredeyse tüm modern Android telefonlar arm64. Telefonda "bilinmeyen
 kaynaklardan yükleme" izni verilmesi gerekir.
+
+Telefonun mimarisinden emin değilsen `flutter build apk --release` ile üretilen
+`app-release.apk` (~50 MB) üç mimariyi de içerir; her telefonda kurulur.
+
+⚠️ **Derleme klasörü eski çıktıları silmez.** `flutter build` yalnızca istediğin
+biçimi tazeler; diğerleri eski hâlleriyle klasörde durur ve dosya adları aynı
+olduğu için ayırt edilemez. Göndermeden önce dosyanın tarihine bak:
+
+```bash
+ls -l app/build/app/outputs/flutter-apk/
+```
+
+Kaynak değişikliğinden **sonraki** bir zaman damgası taşımıyorsa yeniden derle.
+`app-debug.apk` (~150 MB) hiçbir zaman gönderilmez; hata ayıklama derlemesidir,
+yavaş çalışır.
 
 ---
 
@@ -90,7 +105,7 @@ kaynaklardan yükleme" izni verilmesi gerekir.
 
 ```
 GitHub Actions (6 saatte bir)
-  └─ collector/  ── kaynaklar paralel denenir ── data/campaigns.json commit
+  └─ collector/  ── kaynaklar sırayla denenir ── data/campaigns.json commit
                                                       │
                               raw.githubusercontent.com üzerinden servis
                                                       │
@@ -136,6 +151,9 @@ Bildirim simgesini değiştirirsen o dosyayı da güncelle.
 3. 30 gündür görülmeyen fırsat uygulamada otomatik gizlenir.
 4. Bozuk JSON kaydı istisna fırlatmaz, sessizce atlanır.
 5. Emin olunmayan tarih hiç üretilmez; uygulama tahmine düşer.
+6. Ağ hatasında önbelleğe düşülür ama bu **başarılı güncelleme sayılmaz**
+   (`RemoteData.fromCache`); aksi hâlde tek bir hata bir sonraki denemeyi
+   6 saat kilitler ve ayarlar ekranı "az önce güncellendi" derdi.
 
 ---
 
@@ -144,7 +162,7 @@ Bildirim simgesini değiştirirsen o dosyayı da güncelle.
 ```bash
 # Uygulama
 cd app
-flutter test                    # 57 test
+flutter test                    # 65 test
 flutter analyze
 flutter run
 

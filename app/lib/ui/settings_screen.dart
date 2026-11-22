@@ -23,9 +23,19 @@ class _SettingsScreenState extends State<SettingsScreen> {
     _loadPending();
   }
 
+  /// Yalnızca ilk açılış için: uygulama bu oturumda bildirimleri yeniden
+  /// kurana kadar işletim sisteminde kayıtlı olan sayıyı gösterir.
+  ///
+  /// Bu ekran IndexedStack içinde olduğu için [initState] uygulama açılır
+  /// açılmaz — bildirimler kurulmadan önce — çalışıyor. Bu yüzden asıl kaynak
+  /// [AppState.scheduledCount]; burası yalnızca yedek.
   Future<void> _loadPending() async {
-    final int n = await widget.state.scheduler.pendingCount();
-    if (mounted) setState(() => _pending = n);
+    try {
+      final int n = await widget.state.scheduler.pendingCount();
+      if (mounted) setState(() => _pending = n);
+    } catch (_) {
+      // Sayaç okunamazsa ekran yine çalışır.
+    }
   }
 
   @override
@@ -45,10 +55,13 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 leading: const Icon(Icons.notifications_active_rounded),
                 title: const Text('Kurulu hatırlatma'),
                 subtitle: Text(
-                  _pending == null
-                      ? 'Kontrol ediliyor…'
-                      : '$_pending hatırlatma kurulu · 30, 14, 7, 3, 1 gün kala '
-                          've başladığı gün',
+                  switch (s.scheduledCount ?? _pending) {
+                    null => 'Kontrol ediliyor…',
+                    0 => 'Hatırlatma kurulmadı · bildirim izni kapalı olabilir',
+                    final int n =>
+                      '$n hatırlatma kurulu · 30, 14, 7, 3, 1 gün kala ve '
+                          'başladığı gün',
+                  },
                 ),
               ),
               ListTile(
@@ -82,12 +95,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               ListTile(
                 leading: const Icon(Icons.cloud_sync_rounded),
                 title: const Text('Şimdi güncelle'),
-                subtitle: Text(
-                  s.settings.lastFetch == null
-                      ? 'Henüz güncellenmedi'
-                      : 'Son güncelleme: '
-                          '${lastSeenLabel(s.settings.lastFetch, s.now)}',
-                ),
+                subtitle: Text(lastFetchLabel(s.settings.lastFetch, s.now)),
                 onTap: () async {
                   await s.refresh(force: true);
                   await _loadPending();
