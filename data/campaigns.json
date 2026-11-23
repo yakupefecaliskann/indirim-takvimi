@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T05:19:04.293Z",
-  "campaigns": [],
+  "generatedAt": "2026-11-23T17:08:32.741Z",
+  "campaigns": [
+    {
+      "id": "black-friday-2026",
+      "brands": [
+        "genel"
+      ],
+      "title": "Black Friday (Kara Cuma)",
+      "startsAt": "2026-11-26",
+      "confidence": "announced",
+      "source": "news",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEVqbXlEZnFDNGEwSGMyUkZJVjhaLWJ5dEVfTElzMEVsRUszSjVEYmpiVE94VWU0ODNiTURIM2FnbG5HcGxUZTdyRWhyVHctQVg0b0h1Qlo3QTFScTZkMVVlZ1JVSjdTaE5SazRGV1dWam5ibGVHaGFPWkV2Q2V5elVNQnF1OTVqZkpaUHpDZ2FJdWx2SmNlWVZhTTdreDNmc1dWNy12LXN5TjFxMHozZm9yclJoY1N5cE1OX0JRRWRkQQ?oc=5",
+      "lastSeenAt": "2026-11-23"
+    }
+  ],
   "codes": [
     {
       "id": "picodi-gratis-196888",
@@ -587,17 +600,6 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-197059",
-      "brand": "stradivarius",
-      "title": "Stradivarius sitesinde Black Friday öncesi indirimler",
-      "description": "Kim düşük fiyatları sevmez? Stradivarius Black Friday için sürprizler hazırlıyor – takipte kal!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-29",
-      "lastSeenAt": "2026-11-23",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
       "id": "picodi-stradivarius-192797",
       "brand": "stradivarius",
       "title": "Stradivarius’ta ayakkabı alışverişinde %20’ye varan tasarruf!",
@@ -649,6 +651,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-11-23",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-197059",
+      "brand": "stradivarius",
+      "title": "Stradivarius sitesinde Black Friday öncesi indirimler",
+      "description": "Kim düşük fiyatları sevmez? Stradivarius Black Friday için sürprizler hazırlıyor – takipte kal!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
       "lastSeenAt": "2026-11-23",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
