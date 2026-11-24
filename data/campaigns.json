@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T03:43:00.562Z",
+  "generatedAt": "2026-11-24T16:51:42.905Z",
   "campaigns": [
     {
       "id": "black-friday-2026",
@@ -11,7 +11,7 @@
       "startsAt": "2026-11-26",
       "confidence": "announced",
       "source": "news",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbW5vTlBDVWNTVHdhdnVNcDB5cWZINUdzV0hIQV9JWS0xX2UxZE01R0tocHFraU9ZaUhXT0xFVmlSOWNNUUlxLWNnWEdJc3hSS3U0dHl1RTJCaW5ST1FJZUo2ME1uaHRvOEJTQm5qY05oREhiVXdBVGVhZjR2a01COVg5RHB5SnpzbmRiWENLQ001eGFaRDBrUG01eWFaRklvM1RsWFRwd2pFZ0hPSzI5R3lzMlhtdDlZbFotbTNGNzBrSThmRlR0RG1xeUVqNjQyeUFiMmY3WGZHSmN1MnRwMURlQUNWQmdfR2JXX1VmUWV4VWJYTE1YNzFWX3FIWXpmTkRBOGctaHBSdXkzQXNB?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEVqbXlEZnFDNGEwSGMyUkZJVjhaLWJ5dEVfTElzMEVsRUszSjVEYmpiVE94VWU0ODNiTURIM2FnbG5HcGxUZTdyRWhyVHctQVg0b0h1Qlo3QTFScTZkMVVlZ1JVSjdTaE5SazRGV1dWam5ibGVHaGFPWkV2Q2V5elVNQnF1OTVqZkpaUHpDZ2FJdWx2SmNlWVZhTTdreDNmc1dWNy12LXN5TjFxMHozZm9yclJoY1N5cE1OX0JRRWRkQQ?oc=5",
       "lastSeenAt": "2026-11-24"
     }
   ],
@@ -204,6 +204,17 @@
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
+      "id": "picodi-sephora-164928",
+      "brand": "sephora",
+      "title": "Sephora Hediye Ürün Kampanyası",
+      "description": "3000 TL ve üzeri alışverişlerde 4 mini ürün ve çanta HEDİYE!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-24",
+      "sourceUrl": "https://www.picodi.com/tr/sephora"
+    },
+    {
       "id": "picodi-sephora-155994",
       "brand": "sephora",
       "title": "BU Kasım Kampanyalarına Göz At!",
@@ -219,17 +230,6 @@
       "brand": "sephora",
       "title": "Sephora'dan Hediye Ürünler",
       "description": "Birçok markada %50'ye varan indirimlere ek hediye ürünleri kazanabilirsiniz! Detaylı bilgi için tıklayın.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-24",
-      "sourceUrl": "https://www.picodi.com/tr/sephora"
-    },
-    {
-      "id": "picodi-sephora-164928",
-      "brand": "sephora",
-      "title": "Sephora Hediye Ürün Kampanyası",
-      "description": "3000 TL ve üzeri alışverişlerde 4 mini ürün ve çanta HEDİYE!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -468,10 +468,10 @@
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
-      "id": "picodi-bershka-157405",
+      "id": "picodi-bershka-157404",
       "brand": "bershka",
-      "title": "Bershka | BSK Teen Pantolon ve Kargo Pantolon",
-      "description": "300,95₺'den başlayan fiyatlarla!",
+      "title": "Bershka | BSK Teen Sweatshirt ve Kazak",
+      "description": "370,90₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -479,10 +479,10 @@
       "sourceUrl": "https://www.picodi.com/tr/bershka"
     },
     {
-      "id": "picodi-bershka-157404",
+      "id": "picodi-bershka-157405",
       "brand": "bershka",
-      "title": "Bershka | BSK Teen Sweatshirt ve Kazak",
-      "description": "370,90₺'den başlayan fiyatlarla!",
+      "title": "Bershka | BSK Teen Pantolon ve Kargo Pantolon",
+      "description": "300,95₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -512,17 +512,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-197342",
-      "brand": "pullandbear",
-      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
-      "description": "Karıştır ve Eşleştir %10 indirim",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-24",
-      "lastSeenAt": "2026-11-24",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-172877",
       "brand": "pullandbear",
       "title": "Pull and Bear Uygulama İndirimi",
@@ -530,6 +519,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-11-24",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-197377",
+      "brand": "pullandbear",
+      "title": "Karıştır ve Eşleştir ürünlerinde %10 indirim",
+      "description": "Karıştır ve Eşleştir %10 indirim",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-26",
       "lastSeenAt": "2026-11-24",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
