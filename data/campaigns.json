@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T01:27:27.573Z",
+  "generatedAt": "2026-11-26T16:14:00.693Z",
   "campaigns": [],
   "codes": [
     {
@@ -290,6 +290,28 @@
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
+      "id": "picodi-rossmann-155141",
+      "brand": "rossmann",
+      "title": "Rossmann İle Kişisel Bakım",
+      "description": "Kişisel bakım ürünlerinde 15₺'den başlayan fiyatlar Rossmann'da!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-26",
+      "sourceUrl": "https://www.picodi.com/tr/rossmann"
+    },
+    {
+      "id": "picodi-rossmann-197438",
+      "brand": "rossmann",
+      "title": "İlk Siparişte 250₺ rosmann indirim kodu",
+      "description": "Rossmann sitesinden vereceğiniz ilk online siparişte bu indirim kodunu kullanarak 250₺ daha az ödeyin. Bu fırsatı kaçırmayın!",
+      "code": null,
+      "requiresCode": true,
+      "expiresAt": "2026-12-03",
+      "lastSeenAt": "2026-11-26",
+      "sourceUrl": "https://www.picodi.com/tr/rossmann"
+    },
+    {
       "id": "picodi-rossmann-156018",
       "brand": "rossmann",
       "title": "rosmann Mağazasında Büyük Kasım İndirimlreri",
@@ -334,17 +356,6 @@
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
-      "id": "picodi-rossmann-155141",
-      "brand": "rossmann",
-      "title": "Rossmann İle Kişisel Bakım",
-      "description": "Kişisel bakım ürünlerinde 15₺'den başlayan fiyatlar Rossmann'da!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-26",
-      "sourceUrl": "https://www.picodi.com/tr/rossmann"
-    },
-    {
       "id": "picodi-zara-197122",
       "brand": "zara",
       "title": "Black Friday 2026: zara sitesinde promosyonlar yakında",
@@ -367,10 +378,10 @@
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
-      "id": "picodi-zara-155547",
+      "id": "picodi-zara-169459",
       "brand": "zara",
-      "title": "zara Kadın Elbiseler",
-      "description": "329,95₺'den başlayan fiyatlarla!",
+      "title": "zara Erkek Pantolonlar",
+      "description": "1150₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -378,10 +389,10 @@
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
-      "id": "picodi-zara-169459",
+      "id": "picodi-zara-155547",
       "brand": "zara",
-      "title": "zara Erkek Pantolonlar",
-      "description": "1150₺'den başlayan fiyatlarla!",
+      "title": "zara Kadın Elbiseler",
+      "description": "329,95₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -499,17 +510,6 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-172877",
-      "brand": "pullandbear",
-      "title": "Pull and Bear Uygulama İndirimi",
-      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-26",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-pullandbear-197015",
       "brand": "pullandbear",
       "title": "Pull and Bear sitesinde çılgın Black Friday indirimleri",
@@ -565,6 +565,28 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-197459",
+      "brand": "pullandbear",
+      "title": "Black Friday İndirimlerinde Seçili Ürünlerde %40'a Varana Kadar İndirim | Pull and Bear",
+      "description": "Black Friday kampanyasında, alışverişlerinizde %40'a varan indirim fırsatını kaçırmayın. Bu özel etkinlikte sınırlı stoklar ile büyük tasarruflar yapabilirsiniz.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-30",
+      "lastSeenAt": "2026-11-26",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-172877",
+      "brand": "pullandbear",
+      "title": "Pull and Bear Uygulama İndirimi",
+      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-26",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-stradivarius-190356",
       "brand": "stradivarius",
       "title": "Stradivarius'ta Seçili Ürünlerde %15 İndirim",
@@ -583,6 +605,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
+      "lastSeenAt": "2026-11-26",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-197457",
+      "brand": "stradivarius",
+      "title": "Siyah Cuma'da Kadın Modasında %30 İndirim | Stradivarius",
+      "description": "Bu Black Friday'de kadın modasında %30 indirim fırsatını kaçırmayın! Alışverişlerinizde şıklığınızdan ödün vermeden tasarruf edin.",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-30",
       "lastSeenAt": "2026-11-26",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
