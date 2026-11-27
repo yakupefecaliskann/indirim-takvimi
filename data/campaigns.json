@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T01:24:46.597Z",
+  "generatedAt": "2026-11-27T15:58:42.372Z",
   "campaigns": [],
   "codes": [
     {
@@ -268,17 +268,6 @@
       "sourceUrl": "https://www.picodi.com/tr/sephora"
     },
     {
-      "id": "picodi-rossmann-197027",
-      "brand": "rossmann",
-      "title": "rosmann sitesinde efsane Black Friday kampanyaları",
-      "description": "Black Friday ile tam fiyatlara elveda! rosmann sitesinde fiyatların düşüp düşmediğini kontrol et.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": "2026-11-29",
-      "lastSeenAt": "2026-11-27",
-      "sourceUrl": "https://www.picodi.com/tr/rossmann"
-    },
-    {
       "id": "picodi-rossmann-197438",
       "brand": "rossmann",
       "title": "İlk Siparişte 250₺ rosmann indirim kodu",
@@ -290,13 +279,13 @@
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
     {
-      "id": "picodi-rossmann-156292",
+      "id": "picodi-rossmann-197027",
       "brand": "rossmann",
-      "title": "Rossmann Card'a Özel İndirimler",
-      "description": "Rossmann Card sahipleri için özel indirimler burada!",
+      "title": "rosmann sitesinde efsane Black Friday kampanyaları",
+      "description": "Black Friday ile tam fiyatlara elveda! rosmann sitesinde fiyatların düşüp düşmediğini kontrol et.",
       "code": null,
       "requiresCode": false,
-      "expiresAt": null,
+      "expiresAt": "2026-11-29",
       "lastSeenAt": "2026-11-27",
       "sourceUrl": "https://www.picodi.com/tr/rossmann"
     },
@@ -305,6 +294,17 @@
       "brand": "rossmann",
       "title": "Rossmann İle Kişisel Bakım",
       "description": "Kişisel bakım ürünlerinde 15₺'den başlayan fiyatlar Rossmann'da!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-27",
+      "sourceUrl": "https://www.picodi.com/tr/rossmann"
+    },
+    {
+      "id": "picodi-rossmann-156292",
+      "brand": "rossmann",
+      "title": "Rossmann Card'a Özel İndirimler",
+      "description": "Rossmann Card sahipleri için özel indirimler burada!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -367,10 +367,10 @@
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
-      "id": "picodi-zara-156021",
+      "id": "picodi-zara-169459",
       "brand": "zara",
-      "title": "Kasım Fırsatlarını Keşfet",
-      "description": "Bu mega fırsatlar ile kendini şımart!",
+      "title": "zara Erkek Pantolonlar",
+      "description": "1150₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -378,10 +378,10 @@
       "sourceUrl": "https://www.picodi.com/tr/zara"
     },
     {
-      "id": "picodi-zara-169459",
+      "id": "picodi-zara-156021",
       "brand": "zara",
-      "title": "zara Erkek Pantolonlar",
-      "description": "1150₺'den başlayan fiyatlarla!",
+      "title": "Kasım Fırsatlarını Keşfet",
+      "description": "Bu mega fırsatlar ile kendini şımart!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -532,10 +532,10 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-187813",
+      "id": "picodi-pullandbear-183116",
       "brand": "pullandbear",
-      "title": "10% Pull and Bear İndirim Kampanyası",
-      "description": "Pull and Bear kadın ürünlerinde 2 üründe %5, 3 üründe %10 indirim ile kombinini oluştur!",
+      "title": "Pull and Bear Ücretsiz Kargo Fırsatı",
+      "description": "1999₺ ve üzerindeki indirimli ürünlerle 3999₺ ve üstündeki tüm alışverişlerde ücretsiz kargo fırsatını yakalayın! Hızla alışverişe başlayarak tasarruf edin ve büyük fırsatları kaçırmayın!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -543,10 +543,10 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-183116",
+      "id": "picodi-pullandbear-187813",
       "brand": "pullandbear",
-      "title": "Pull and Bear Ücretsiz Kargo Fırsatı",
-      "description": "1999₺ ve üzerindeki indirimli ürünlerle 3999₺ ve üstündeki tüm alışverişlerde ücretsiz kargo fırsatını yakalayın! Hızla alışverişe başlayarak tasarruf edin ve büyük fırsatları kaçırmayın!",
+      "title": "10% Pull and Bear İndirim Kampanyası",
+      "description": "Pull and Bear kadın ürünlerinde 2 üründe %5, 3 üründe %10 indirim ile kombinini oluştur!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -620,13 +620,13 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-197405",
+      "id": "picodi-stradivarius-197493",
       "brand": "stradivarius",
       "title": "Stradivarius'ta seçili kadın giyim, ayakkabı ve aksesuarlarda %30 indirim",
       "description": "Black Friday'e özel kadın giyim ürünlerinde %30 indirim Seçili kadın giyim ürünleri, ayakkabılar ve aksesuarlar.",
       "code": null,
       "requiresCode": false,
-      "expiresAt": "2026-11-27",
+      "expiresAt": "2026-11-29",
       "lastSeenAt": "2026-11-27",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
