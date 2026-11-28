@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T00:57:47.303Z",
+  "generatedAt": "2026-11-28T14:55:50.420Z",
   "campaigns": [],
   "codes": [
     {
@@ -136,10 +136,10 @@
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
-      "id": "picodi-watsons-156227",
+      "id": "picodi-watsons-146131",
       "brand": "watsons",
-      "title": "Watsons Kadın Parfümler",
-      "description": "79,95₺'den başlayan fiyatlarla!",
+      "title": "Watsons Outlet",
+      "description": "19,95₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -147,10 +147,10 @@
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
-      "id": "picodi-watsons-146131",
+      "id": "picodi-watsons-156227",
       "brand": "watsons",
-      "title": "Watsons Outlet",
-      "description": "19,95₺'den başlayan fiyatlarla!",
+      "title": "Watsons Kadın Parfümler",
+      "description": "79,95₺'den başlayan fiyatlarla!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -169,6 +169,17 @@
       "sourceUrl": "https://www.picodi.com/tr/watsons"
     },
     {
+      "id": "picodi-sephora-164928",
+      "brand": "sephora",
+      "title": "Sephora Hediye Ürün Kampanyası",
+      "description": "3000 TL ve üzeri alışverişlerde 4 mini ürün ve çanta HEDİYE!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-28",
+      "sourceUrl": "https://www.picodi.com/tr/sephora"
+    },
+    {
       "id": "picodi-sephora-197038",
       "brand": "sephora",
       "title": "Black Friday 2026 indirimleri Sephora sitesinde",
@@ -184,17 +195,6 @@
       "brand": "sephora",
       "title": "Sephora Deneme Ürün Kampanyası",
       "description": "Tüm Sephora alışverişlerinize deneme boy ürün hediye!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-28",
-      "sourceUrl": "https://www.picodi.com/tr/sephora"
-    },
-    {
-      "id": "picodi-sephora-164928",
-      "brand": "sephora",
-      "title": "Sephora Hediye Ürün Kampanyası",
-      "description": "3000 TL ve üzeri alışverişlerde 4 mini ürün ve çanta HEDİYE!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -510,6 +510,17 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
+      "id": "picodi-pullandbear-172877",
+      "brand": "pullandbear",
+      "title": "Pull and Bear Uygulama İndirimi",
+      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
+      "lastSeenAt": "2026-11-28",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
       "id": "picodi-pullandbear-197497",
       "brand": "pullandbear",
       "title": "Pull and Bear’ta %40’a varan indirim",
@@ -517,6 +528,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-29",
+      "lastSeenAt": "2026-11-28",
+      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
+    },
+    {
+      "id": "picodi-pullandbear-183116",
+      "brand": "pullandbear",
+      "title": "Pull and Bear Ücretsiz Kargo Fırsatı",
+      "description": "1999₺ ve üzerindeki indirimli ürünlerle 3999₺ ve üstündeki tüm alışverişlerde ücretsiz kargo fırsatını yakalayın! Hızla alışverişe başlayarak tasarruf edin ve büyük fırsatları kaçırmayın!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": null,
       "lastSeenAt": "2026-11-28",
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
@@ -536,17 +558,6 @@
       "brand": "pullandbear",
       "title": "Kasım Kampanyası | Bugün Tasarrufun Keydini Çıkar!",
       "description": "İndirim mi lazım? Bu mega kampanyalara bir göz at!",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-28",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
-      "id": "picodi-pullandbear-183116",
-      "brand": "pullandbear",
-      "title": "Pull and Bear Ücretsiz Kargo Fırsatı",
-      "description": "1999₺ ve üzerindeki indirimli ürünlerle 3999₺ ve üstündeki tüm alışverişlerde ücretsiz kargo fırsatını yakalayın! Hızla alışverişe başlayarak tasarruf edin ve büyük fırsatları kaçırmayın!",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -587,32 +598,10 @@
       "sourceUrl": "https://www.picodi.com/tr/pullandbear"
     },
     {
-      "id": "picodi-pullandbear-172877",
-      "brand": "pullandbear",
-      "title": "Pull and Bear Uygulama İndirimi",
-      "description": "Pull and Bear uygulamasını hemen indir! Tüm avantajlara tek bir yerden ulaş",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-28",
-      "sourceUrl": "https://www.picodi.com/tr/pullandbear"
-    },
-    {
       "id": "picodi-stradivarius-190356",
       "brand": "stradivarius",
       "title": "Stradivarius'ta Seçili Ürünlerde %15 İndirim",
       "description": "Stradivarius'ta şık giyim ve aksesuarlar için %15'e varan indirim fırsatını kaçırmayın. Alışverişinizde tasarruf yaparken stilinizi de yansıtın.",
-      "code": null,
-      "requiresCode": false,
-      "expiresAt": null,
-      "lastSeenAt": "2026-11-28",
-      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
-    },
-    {
-      "id": "picodi-stradivarius-194353",
-      "brand": "stradivarius",
-      "title": "Fırsatı kaçırma! Stradivarius uygulamasında %40’a varan indirim!",
-      "description": "Fırsatların tadını çıkarın! Stradivarius'ta %40'a varan indirimlerle alışverişinizi daha uygun hale getirin.",
       "code": null,
       "requiresCode": false,
       "expiresAt": null,
@@ -627,6 +616,17 @@
       "code": null,
       "requiresCode": false,
       "expiresAt": "2026-11-30",
+      "lastSeenAt": "2026-11-28",
+      "sourceUrl": "https://www.picodi.com/tr/stradivarius"
+    },
+    {
+      "id": "picodi-stradivarius-197059",
+      "brand": "stradivarius",
+      "title": "Stradivarius sitesinde Black Friday öncesi indirimler",
+      "description": "Kim düşük fiyatları sevmez? Stradivarius Black Friday için sürprizler hazırlıyor – takipte kal!",
+      "code": null,
+      "requiresCode": false,
+      "expiresAt": "2026-11-29",
       "lastSeenAt": "2026-11-28",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
@@ -697,13 +697,13 @@
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
     {
-      "id": "picodi-stradivarius-197059",
+      "id": "picodi-stradivarius-194353",
       "brand": "stradivarius",
-      "title": "Stradivarius sitesinde Black Friday öncesi indirimler",
-      "description": "Kim düşük fiyatları sevmez? Stradivarius Black Friday için sürprizler hazırlıyor – takipte kal!",
+      "title": "Fırsatı kaçırma! Stradivarius uygulamasında %40’a varan indirim!",
+      "description": "Fırsatların tadını çıkarın! Stradivarius'ta %40'a varan indirimlerle alışverişinizi daha uygun hale getirin.",
       "code": null,
       "requiresCode": false,
-      "expiresAt": "2026-11-29",
+      "expiresAt": null,
       "lastSeenAt": "2026-11-28",
       "sourceUrl": "https://www.picodi.com/tr/stradivarius"
     },
